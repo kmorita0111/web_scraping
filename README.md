@@ -4,6 +4,8 @@
 < Targets >
 1. Journals in Wiley publishing 
 
+e.g., Ecology, Evolution
+
 < Data >
 1. Publishing year and month
 2. Titlte of articles
@@ -11,12 +13,10 @@
 4. Authors
 5. Affiliation (Nation)
 
-e.g., Ecology, Evolution
 
 ## Requirements
 - Python 3.9
 
-< Packages >
-1. Selenium 4
+< Packages > Selenium 4
 
 - Chromedriver
