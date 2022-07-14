@@ -33,7 +33,16 @@ def search_articles( monWeb ):
     #url = sys.argv[1]
     #driver.get( url )
     driver.get( monWeb )
-    
+
+    #elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-1"]')
+    #for i in range(1,10):
+    #    idName = "heading-level-1-" + str(i)
+    #    tag_id = 'h3[id="' + idName + '"]'
+    #    elem = driver.find_element( By.CSS_SELECTOR, tag_id )
+    #    if "Articles" in elem.get_attribute("title"):
+    #        print( elem.get_attribute("title") )
+    #        break
+        
     elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-4"]')
     articles = elem.find_element( By.XPATH, ".." )
     
@@ -53,16 +62,6 @@ def search_articles( monWeb ):
         print( "        web page " + str(i) + ": " + aWeb )
         
         ecology_article.auth_affil( aWeb )
-        ###=====================###
-        # driver.get( aWeb )
-        ###=== more to write ===###
-        # driver.quit()
-        ###=====================###
-        #author_list = authors[i].find_elements(By.CSS_SELECTOR, 'span[class="author-style"]')
-        #author_num = len( author_list )
-        #for j in range(0,author_num):
-        #    print( "    " + str(j) + ": " + author_list[j].text )
-
 
     #with open('sample.csv', 'w') as f:
     #    writer = csv.writer(f)
