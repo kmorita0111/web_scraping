@@ -47,8 +47,8 @@ def auth_affil( webpage ):
     for i in range(0,len_authors_list):
         auth = authors[i].get_attribute("content")
         affi = affils[i].get_attribute("content")
-        print( "    author " + str(i) + ": " + auth )
-        print( "    affiliation " + str(i) + ": " + affi )
+        print( "        author " + str(i) + ": " + auth )
+        print( "        affiliation " + str(i) + ": " + affi )
         
         
     #with open('sample.csv', 'w') as f:
