@@ -12,6 +12,10 @@ from selenium.webdriver.chrome import service as fs
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.relative_locator import locate_with
 
+# ファイルの呼び出し
+import ecology_article
+#exec(open("ecology_article.py").read())
+
 # Seleniumをあらゆる環境で起動させるChromeオプション                                                                  
 option = Options()
 option.add_argument('--disable-gpu');
@@ -41,17 +45,21 @@ authors = articles.find_elements(By.CSS_SELECTOR, 'div[class="loa comma loa-auth
 len_authors_list = len( authors )
 print( len_article )
 for i in range(0,len_article):
-    print( str(i) + ": " + article[i].text )
-    print( str(i) + ": " + article[i].get_attribute("href") )
+    aTitle = article[i].text
+    print( str(i) + ": " + aTitle )
+    aWeb = article[i].get_attribute("href")
+    print( "    web page " + str(i) + ": " + aWeb )
+
+    ecology_article.auth_affil( aWeb )
     ###=====================###
-    # driver.get('https://esajournals.onlinelibrary.wiley.com/toc/19399170/2022/103/6')
+    # driver.get( aWeb )
     ###=== more to write ===###
     # driver.quit()
     ###=====================###
-    author_list = authors[i].find_elements(By.CSS_SELECTOR, 'span[class="author-style"]')
-    author_num = len( author_list )
-    for j in range(0,author_num):
-        print( "    " + str(j) + ": " + author_list[j].text )
+    #author_list = authors[i].find_elements(By.CSS_SELECTOR, 'span[class="author-style"]')
+    #author_num = len( author_list )
+    #for j in range(0,author_num):
+    #    print( "    " + str(j) + ": " + author_list[j].text )
 
 #with open('sample.csv', 'w') as f:
 #    writer = csv.writer(f)
