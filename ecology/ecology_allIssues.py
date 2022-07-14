@@ -14,11 +14,11 @@ from selenium.webdriver.support.relative_locator import locate_with
 
 # Seleniumをあらゆる環境で起動させるChromeオプション                                                                  
 option = Options()
-option.add_argument('--disable-gpu');
-option.add_argument('--disable-extensions');
-option.add_argument('--proxy-server="direct://"');
-option.add_argument('--proxy-bypass-list=*');
-option.add_argument('--start-maximized');
+option.add_argument('--disable-gpu')
+option.add_argument('--disable-extensions')
+option.add_argument('--proxy-server="direct://"')
+option.add_argument('--proxy-bypass-list=*')
+option.add_argument('--start-maximized')
 option.add_experimental_option("excludeSwitches", ['enable-automation'])
 #option.add_argument('--headless')
 
@@ -41,6 +41,8 @@ len_elem = len( elem )
 print( len_elem )
 
 for i in range(0,len_elem):
+
+    volume_list = []
     month = elem[i].find_element(By.CSS_SELECTOR, 'h4[class="parent-item"]')
     title = month.text
     print( str(i) + ": " + title )
@@ -48,12 +50,17 @@ for i in range(0,len_elem):
     webpage = month.find_element(By.CSS_SELECTOR, '*').get_attribute("href")
     print( "    web page " + str(i) + ": " + webpage )
 
-    ecology_month.search_articles( webpage )
+    volume_list.append([title,"title","web page","author","status","correspondance","affiliation","field","category"])
+    # search for author information
+    volume_list = ecology_month.search_articles( webpage, volume_list )
 
-#with open('sample.csv', 'w') as f:
-#    writer = csv.writer(f)
-#    writer.writerow( [title_name, html_name, result.strip('"')] )
-
+    # CSVファイルへ書き出す
+    filename = "./result/" + title.replace(',','').replace(' ','_') + ".csv"
+    with open( filename, 'w') as f:
+        writer = csv.writer( f )
+        len_row_list =  len( volume_list )
+        for j in range( 0, len_row_list ):
+            writer.writerow( volume_list[j] )
 
 # ブラウザを閉じる
 driver.quit()
