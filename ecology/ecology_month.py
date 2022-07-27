@@ -13,6 +13,7 @@ def search_articles( monWeb, volume_list ):
     from selenium.webdriver.chrome import service as fs
     from selenium.webdriver.support.select import Select
     from selenium.webdriver.support.relative_locator import locate_with
+    from selenium.common.exceptions import NoSuchElementException
     #from fake_useragent import UserAgent # fake user
     
     # Seleniumをあらゆる環境で起動させるChromeオプション
@@ -38,17 +39,20 @@ def search_articles( monWeb, volume_list ):
     #driver.get( url )
     driver.get( monWeb )
 
-    elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-1"]')
+    elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-2"]')
     article_type = ""
     for i in range(1,10):
         idName = "heading-level-1-" + str(i)
         tag_id = 'h3[id="' + idName + '"]'
-        elem = driver.find_element( By.CSS_SELECTOR, tag_id )
-        if ( "ARTICLES" in elem.get_attribute("title") ) or ( "Articles" in elem.get_attribute("title") ):
-            print( elem.get_attribute("title") )
-            article_type = "Articles"
-            break
-        
+        try:
+            elem = driver.find_element( By.CSS_SELECTOR, tag_id )
+            if ( "ARTICLES" in elem.get_attribute("title") ) or ( "Articles" in elem.get_attribute("title") ):
+                print( elem.get_attribute("title") )
+                article_type = "Articles"
+                break
+        except NoSuchElementException:
+            print("exception handled")
+
     #elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-4"]')
     articles = elem.find_element( By.XPATH, ".." )
     

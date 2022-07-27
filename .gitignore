@@ -6,6 +6,9 @@ __pycache__/
 *.csv
 .DS_Store
 
+# R project
+*.Rproj
+
 # C extensions
 *.so
 
@@ -130,3 +133,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user

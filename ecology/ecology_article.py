@@ -13,6 +13,7 @@ def auth_affil( webpage, article_no_title_web, article_type ):
     from selenium.webdriver.chrome import service as fs
     from selenium.webdriver.support.select import Select
     from selenium.webdriver.support.relative_locator import locate_with
+    from selenium.common.exceptions import NoSuchElementException
     #from fake_useragent import UserAgent # fake user
     
     # Seleniumをあらゆる環境で起動させるChromeオプション    
@@ -49,10 +50,24 @@ def auth_affil( webpage, article_no_title_web, article_type ):
     # articles = elem.find_element( By.XPATH, ".." )
 
     # search for a corresponding author
-    corr_type = driver.find_element(By.CSS_SELECTOR, 'p[class="author-type mb-1"]')
-    corr_auth = corr_type.find_element( By.XPATH, ".." ).find_element(By.CSS_SELECTOR, 'p[class="author-name"]')
-    corr_name = corr_auth.get_attribute("textContent")
-    
+    corr_name = ""
+    try:
+        corr_type = driver.find_element(By.CSS_SELECTOR, 'p[class="author-type mb-1"]')
+        if corr_type != None:
+            corr_auth = corr_type.find_element( By.XPATH, ".." ).find_element(By.CSS_SELECTOR, 'p[class="author-name"]')
+            corr_name = corr_auth.get_attribute("textContent")
+    except NoSuchElementException: 
+        print("exception handled")
+
+
+    # search for keywords
+    keywords = []
+    elem_keywords = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation-keywords"]')
+    len_elem_keywords = len( elem_keywords )
+    for i in range(0,len_elem_keywords):
+        keywords.append( elem_keywords[i].get_attribute("content") )
+
+    # search for author information
     authors_info = []
     
     for i in range(0,len_authors_list):
@@ -84,9 +99,11 @@ def auth_affil( webpage, article_no_title_web, article_type ):
         elif corr > 0:
             author_info.append( 1 )
         author_info.append( affi ) # affiliation
+        author_info.append( keywords ) # keyword
         author_info.append( "none" ) # field
         author_info.append( article_type ) # article type
 
+        # add author_info to authors_info
         authors_info.append( author_info )
         
     driver.quit()

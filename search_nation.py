@@ -9,7 +9,7 @@ oceania = ["Australia","Zealand","Guinea"]
 asia = ["China","Japan","Singapore"]
 
 journal = 'ecology'
-title = 'Volume_103_Issue_2'
+title = 'Volume_102_Issue_2'
 originalFilename = '~/web_scraping/' + journal + '/result/' + title + '.csv'
 df = pd.read_csv( originalFilename, index_col=0)
 #print( df )

@@ -33,7 +33,7 @@ import ecology_month
 # Google chrome を開く
 #url = sys.argv[1]
 #driver.get( url )
-driver.get('https://esajournals.onlinelibrary.wiley.com/loi/19399170/year/2022')
+driver.get('https://esajournals.onlinelibrary.wiley.com/loi/19399170/year/2020')
 
 pare = driver.find_element(By.CSS_SELECTOR, 'ul[class="rlist loi__issues"]')
 elem = pare.find_elements(By.CSS_SELECTOR, 'li[class="card clearfix"]')
@@ -50,7 +50,7 @@ for i in range(0,len_elem):
     webpage = month.find_element(By.CSS_SELECTOR, '*').get_attribute("href")
     print( "    web page " + str(i) + ": " + webpage )
 
-    volume_list.append([title,"title","web page","author","status","correspondance","affiliation","field","category"])
+    volume_list.append([title,"title","web page","author","status","correspondance","affiliation","keyword","field","category"])
     # search for author information
     volume_list = ecology_month.search_articles( webpage, volume_list )
 
