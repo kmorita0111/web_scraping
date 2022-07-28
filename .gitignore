@@ -8,6 +8,8 @@ __pycache__/
 
 # R project
 *.Rproj
+.RData
+.Rhistory
 
 # C extensions
 *.so
