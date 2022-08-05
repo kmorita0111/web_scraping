@@ -46,9 +46,9 @@ def search_articles( monWeb, volume_list ):
         tag_id = 'h3[id="' + idName + '"]'
         try:
             elem = driver.find_element( By.CSS_SELECTOR, tag_id )
-            if ( "ORIGINAL ARTICLE" in elem.get_attribute("title") ) or ( "ORIGINAL ARTICLES" in elem.get_attribute("title") ) or ( "Original article" in elem.get_attribute("title") ) or ( "Original articles" in elem.get_attribute("title") ):
+            if ( "Letters" in elem.get_attribute("title") ) or ( "LETTERS" in elem.get_attribute("title") ):
                 print( elem.get_attribute("title") )
-                article_type = "Original article"
+                article_type = "Letters"
                 
                 #elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-4"]')
                 articles = elem.find_element( By.XPATH, ".." )
@@ -56,13 +56,9 @@ def search_articles( monWeb, volume_list ):
                 article = articles.find_elements(By.CSS_SELECTOR, 'div[class="issue-item"]')
                 #article = articles.find_elements(By.CSS_SELECTOR, 'a[class="issue-item__title visitable"]')
                 len_article = len( article )
-                #authors = articles.find_elements(By.CSS_SELECTOR, 'div[class="loa comma loa-authors-trunc"]')
-                #len_authors_list = len( authors )
-                #print( len_article )
-                #issue_item = articles.find_elements(By.CSS_SELECTOR, 'div[class="issue-item"]')    
                 
                 # ファイルの呼び出し
-                import evolution_article
+                import cl_article
                 
                 for i in range(0,len_article):
                     
@@ -74,16 +70,12 @@ def search_articles( monWeb, volume_list ):
                     #aWeb_abst = aWebs.find_element(By.XPATH, "//a[@title='Abstract']")
                     aWeb = aWeb_abst.get_attribute("href")
                     print( "        web page " + str(i) + ": " + aWeb )
-                    #cifl = issue_item[i].find_element(By.CSS_SELECTOR, 'div[class="content-issue-format-links"]')
-                    #risiil = cifl.find_element(By.CSS_SELECTOR, 'ul[class="rlist--inline separator issue-item__links"]')
-                    #aWeb = risiil.find_element(By.CSS_SELECTOR, 'a[title="Abstract"]').get_attribute("href")
-                    #print( "        web page " + str(i) + ": " + aWeb )
                     
                     # No., title, & web page address of each article
                     article_no_title_web = [i, aTitle, aWeb]
                     # search & append authors' name, status, correspondance, affiliation, field, category of each article
                     authors_info = []
-                    authors_info = evolution_article.auth_affil( aWeb, article_no_title_web, article_type )
+                    authors_info = cl_article.auth_affil( aWeb, article_no_title_web, article_type )
                     # add article information to the origical list
                     len_author_info = len( authors_info )
                     for j in range(0,len_author_info):

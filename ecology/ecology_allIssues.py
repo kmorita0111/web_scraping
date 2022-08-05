@@ -33,7 +33,7 @@ import ecology_month
 # Google chrome を開く
 #url = sys.argv[1]
 #driver.get( url )
-driver.get('https://esajournals.onlinelibrary.wiley.com/loi/19399170/year/2020')
+driver.get('https://esajournals.onlinelibrary.wiley.com/loi/19399170/year/2018')
 
 pare = driver.find_element(By.CSS_SELECTOR, 'ul[class="rlist loi__issues"]')
 elem = pare.find_elements(By.CSS_SELECTOR, 'li[class="card clearfix"]')

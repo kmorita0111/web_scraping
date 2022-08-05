@@ -53,16 +53,15 @@ def auth_affil( webpage, article_no_title_web, article_type ):
     corr_name = ""
     try:
         corr_type = driver.find_element(By.CSS_SELECTOR, 'p[class="author-type mb-1"]')
-        if corr_type != None:
-            corr_auth = corr_type.find_element( By.XPATH, ".." ).find_element(By.CSS_SELECTOR, 'p[class="author-name"]')
-            corr_name = corr_auth.get_attribute("textContent")
+        corr_auth = corr_type.find_element( By.XPATH, ".." ).find_element(By.CSS_SELECTOR, 'p[class="author-name"]')
+        corr_name = corr_auth.get_attribute("textContent")
     except NoSuchElementException: 
         print("exception handled")
 
 
     # search for keywords
     keywords = []
-    elem_keywords = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation-keywords"]')
+    elem_keywords = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation_keywords"]')
     len_elem_keywords = len( elem_keywords )
     for i in range(0,len_elem_keywords):
         keywords.append( elem_keywords[i].get_attribute("content") )

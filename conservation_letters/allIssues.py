@@ -28,12 +28,12 @@ chrome_servie = fs.Service(executable_path=DRIVER_PATH)
 driver = webdriver.Chrome(service=chrome_servie, options=option)
 
 # ファイルの呼び出し
-import evolution_month
+import cl_month
 
 # Google chrome を開く
 #url = sys.argv[1]
 #driver.get( url )
-driver.get('https://onlinelibrary.wiley.com/loi/15585646/year/2019')
+driver.get('https://conbio.onlinelibrary.wiley.com/loi/1755263x/year/2022')
 
 pare = driver.find_element(By.CSS_SELECTOR, 'ul[class="rlist loi__issues"]')
 elem = pare.find_elements(By.CSS_SELECTOR, 'li[class="card clearfix"]')
@@ -53,7 +53,7 @@ for i in range(0,len_elem):
     volume_list.append([title,"title","web page","author","status","correspondance","affiliation","keyword","field","category"])
 
     # search for author information
-    volume_list = evolution_month.search_articles( webpage, volume_list )
+    volume_list = cl_month.search_articles( webpage, volume_list )
 
     # CSVファイルへ書き出す
     filename = "./result/" + title.replace(',','').replace(' ','_') + ".csv"
