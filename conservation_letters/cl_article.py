@@ -44,7 +44,8 @@ def auth_affil( webpage, article_no_title_web, article_type ):
     #print( len_authors_list )
     affils = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation_author_institution"]')
     len_affils_list = len( affils )
-
+    print( "length of affiliation list = " + str(len_affils_list) )
+    
     #if len_authors_list == len_affils_list:
     #    print( "len_authors_list == len_authors_list" )
     # articles = elem.find_element( By.XPATH, ".." )

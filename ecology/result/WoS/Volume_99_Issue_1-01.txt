@@ -1,0 +1,1827 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Parker, SM
+   Utz, RM
+AF Parker, Stephanie M.
+   Utz, Ryan M.
+TI Temporal design for aquatic organismal sampling across the National
+   Ecological Observatory Network
+SO METHODS IN ECOLOGY AND EVOLUTION
+DT Review; Early Access
+DE freshwater biology; lake; long-term monitoring; National Ecological
+   Observatory Network; open-access data; river; sample timing; stream
+ID SEASONAL-VARIATION; COMMUNITY STRUCTURE; HEADWATER STREAMS; DISTURBANCE;
+   DIVERSITY; PERIPHYTON; ASSEMBLAGES; PHYTOPLANKTON; BIODIVERSITY;
+   VARIABILITY
+AB The National Ecological Observatory Network (NEON) is a continental-scale research platform designed to assess the impacts of climate change, land-use change and invasive species on ecosystem structure and function at field sites distributed across 20 ecoclimatic domains (or regions) from Alaska to Puerto Rico. Aquatic sites within the NEON network include 24 streams, 7 lakes and 3 rivers among 19 domains. A significant challenge to this effort is defining standardized methodology for sampling at sites with substantially variable geomorphology and hydrology. The aquatic temporal sampling design provides timing windows for seasonal sampling to best assess organismal diversity and abundance. The need to establish a rule set for temporal sampling was addressed via site-specific seasonal sampling windows, defined using a suite of environmental variables collected from publicly available meteorological data. Variables integrated into the design include stream flow, growing degree days and riparian phenology. Thresholds for these variables were determined using published literature and used to create three sampling windows for each sample site. Sampling windows target biological community diversity and seasonal changes in abundance, and roughly align with spring, mid-summer and autumn. NEON-generated organismal data from 2014 to 2021 were analysed for inter- and intra-annual variability to quantify community-scale variability among seasonal sampling windows and years at each site. Algae, macroinvertebrate and zooplankton community structure was significantly different within sites across sampling windows, supporting the sampling design of three separate windows per year. Moreover, 93% of sampling windows were completed from 2014 to 2021. An analysis of macroinvertebrate data at 14 sites shows that seasonal beta-diversity represents an important attribute of the stream community, even if interannual trends among sites may differ. We conclude that the temporal sampling design for NEON aquatic biological sampling is justified in having three sampling windows per site and is achievable at most NEON aquatic sites. Although sampling windows have been adjusted at a select number of sites, the original sampling windows are used successfully at the majority of NEON aquatic sites. Sampling windows will be updated with NEON continuous sensor data from each site once sufficient (>3 years) data are available.
+C1 [Parker, Stephanie M.; Utz, Ryan M.] Battelle Mem Inst, Natl Ecol Observ Network, Boulder, CO 80301 USA.
+   [Utz, Ryan M.] Chatham Univ, Falk Sch Sustainabil & Environm, Pittsburgh, PA 15232 USA.
+RP Parker, SM （連絡著者）、Battelle Mem Inst, Natl Ecol Observ Network, Boulder, CO 80301 USA.
+EM sparker@battelleecology.org
+DI 10.1111/2041-210X.13944
+EA JUL 2022
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Smucker, NJ
+   Pilgrim, EM
+   Wu, HY
+   Nietch, CT
+   Darling, JA
+   Molina, M
+   Johnson, BR
+   Yuan, LL
+AF Smucker, Nathan J.
+   Pilgrim, Erik M.
+   Wu, Huiyun
+   Nietch, Christopher T.
+   Darling, John A.
+   Molina, Marirosa
+   Johnson, Brent R.
+   Yuan, Lester L.
+TI Characterizing temporal variability in streams supports nutrient
+   indicator development using diatom and bacterial DNA metabarcoding
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Phosphorus; Nitrogen; Agriculture; Algae; Bioassessment; Metrics
+ID NITROUS-OXIDE EMISSIONS; AGRICULTURAL LAND; BIOTIC INTEGRITY; ALGAL
+   METRICS; UNITED-STATES; PHOSPHORUS; RIVERS; WATER; CRITERIA;
+   EUTROPHICATION
+AB Interest in developing periphytic diatom and bacterial indicators of nutrient effects continues to grow in support of the assessment and management of stream ecosystems and their watersheds. However, temporal variability could confound relationships between indicators and nutrients, subsequently affecting assessment outcomes. To document how temporal variability affects measures of diatom and bacterial assemblages obtained from DNA metabarcoding, we conducted weekly periphyton and nutrient sampling from July to October 2016 in 25 streams in a 1293 km2 mixed land use watershed. Measures of both diatom and bacterial assemblages were strongly associated with the percent agriculture in upstream watersheds and total phosphorus (TP) and total nitrogen (TN) concentrations. Temporal variability in TP and TN concentrations increased with greater amounts of agriculture in watersheds, but overall diatom and bacterial assemblage variability within sites-measured as mean distance among samples to corresponding site centroids in ordination space-remained consistent. This consistency was due in part to offsets between decreasing variability in relative abundances of taxa typical of low nutrient conditions and increasing variability in those typical of high nutrient conditions as mean concentrations of TP and TN increased within sites. Weekly low and high nutrient diatom and bacterial metrics were more strongly correlated with site mean nutrient concentrations over the sampling period than with same day measurements and more strongly correlated with TP than with TN. Correlations with TP concentrations were consistently strong throughout the study except briefly following two major precipitation events. Following these events, biotic relationships with TP reestablished within one to three weeks. Collectively, these results & nbsp;can strengthen interpretations of survey results and inform monitoring strategies and decision making. These findings have direct applications for improving the use of diatoms and bacteria, and the use of DNA metabarcoding, in monitoring programs and stream site assessments.
+C1 [Smucker, Nathan J.; Pilgrim, Erik M.; Nietch, Christopher T.; Johnson, Brent R.] US EPA, Off Res & Dev, Cincinnati, OH 45268 USA.
+   [Wu, Huiyun] Oak Ridge Inst Sci & Educ, POB 117, Oak Ridge, TN 37831 USA.
+   [Wu, Huiyun; Darling, John A.; Molina, Marirosa] US EPA, Off Res & Dev, Res Triangle Pk, NC 27711 USA.
+   [Yuan, Lester L.] US EPA, Off Water, Washington, DC 20460 USA.
+C3 United States Environmental Protection Agency; United States Department
+   of Energy (DOE); Oak Ridge Institute for Science & Education; United
+   States Environmental Protection Agency; United States Environmental
+   Protection Agency
+RP Smucker, NJ （連絡著者）、US EPA, 26 Martin Luther King Dr W, Cincinnati, OH 45268 USA.
+EM smucker.nathan@epa.gov
+PD JUL 20
+PY 2022
+VL 831
+AR 154960
+DI 10.1016/j.scitotenv.2022.154960
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Des Roches, S
+   LaFuente, JR
+   Faulkner, HS
+   Morgan, JR
+   Perla, BS
+   Metler, M
+   Dethier, MN
+   Toft, JD
+AF Des Roches, Simone
+   LaFuente, Juhi R.
+   Faulkner, Hannah S.
+   Morgan, Jason R.
+   Perla, Bianca S.
+   Metler, Maria
+   Dethier, Megan N.
+   Toft, Jason D.
+TI Shoreline armor removal can restore variability in intertidal ecosystems
+SO ECOLOGICAL INDICATORS
+DT Article
+DE Citizen science; Community science; Puget Sound; Restoration; Shoreline
+   monitoring; Spatial variability; Temporal variability
+ID URBANIZATION; PATTERNS; IMPACTS; HABITAT; ECOTONE; WRACK
+AB Humans have drastically modified marine nearshore ecosystems through shoreline armoring. Armor, in the form of seawalls and bulkheads, reduces the mean abundance of key ecological features of shoreline ecosystems, such as the amount of beach wrack, the number of beached logs, and the density of supratidal invertebrates. Armor also affects the physical and biological composition and diversity of these important ecological responses - altering the makeup of beach wrack and invertebrate species, for example. Less is known, however, about changes in variability - both over time and space - of ecological responses across natural, restored, and armored shores. Temporal and spatial variation in physical and biological variables can themselves be indicators of ecosystem health and effectiveness of restoration. Working alongside community (citizen) scientists, we found that beach wrack (a nutrient and habitat resource), logs (an element of habitat structure), and supratidal invertebrates (part of the consumer community) often increased following restoration. Further, not only were wrack, logs, and invertebrates on average more abundant and diverse at natural (never armored) shore types compared to armored shore types, but they also frequently had higher variance. In many cases, variance of ecological responses in restored shore types were more similar to natural shore types than armored shore types, indicating a positive effect of restoration. We found that differences among sample sites, rather than across sample years, explained more of the variation in ecological responses across all shore types. Because shoreline armoring is a pervasive human activity, public perception of this variability is key to the social context of restoration success. Participation in data collection through community science endeavors is one way to encourage an appreciation for natural variability within and across landscapes. We implore that shoreline monitoring efforts should evaluate and communicate ecosystem variability as a key indicator of restoration success.
+C1 [Des Roches, Simone; LaFuente, Juhi R.; Toft, Jason D.] Univ Washington, Sch Aquat & Fishery Sci, Fishery Sci Bldg,1122 NE Boat St, Seattle, WA 98105 USA.
+   [Faulkner, Hannah S.] Washington Dept Fish & Wildlife, Habitat Program, 1111 Washington St SE, Olympia, WA 98501 USA.
+   [Morgan, Jason R.] Northwest Straits Fdn, 1155 N State St STE 400, Bellingham, WA 98232 USA.
+   [Perla, Bianca S.; Metler, Maria] Vashon Nat Ctr, POB 2522, Vashon, WA 98070 USA.
+   [Dethier, Megan N.] Friday Harbor Labs, 620 Univ Rd, Friday Harbor, WA 98250 USA.
+   [Dethier, Megan N.] Univ Washington, Biol Dept, 24 Kincaid Hall, Seattle, WA 98105 USA.
+C3 University of Washington; University of Washington Seattle; University
+   of Washington; University of Washington Seattle
+RP Des Roches, S （連絡著者）、Univ Washington, Sch Aquat & Fishery Sci, Fishery Sci Bldg,1122 NE Boat St, Seattle, WA 98105 USA.
+EM simone.desroches@gmail.com
+PD JUL
+PY 2022
+VL 140
+AR 109056
+DI 10.1016/j.ecolind.2022.109056
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Li, Y
+   Shen, RJ
+   Liu, X
+   Su, HJ
+   Wu, FQ
+   Chen, FZ
+AF Li, Yun
+   Shen, Ruijie
+   Liu, Xia
+   Su, Haojie
+   Wu, Fuqin
+   Chen, Feizhou
+TI Impacts of nutrient reduction on temporal beta-diversity of rotifers: A
+   19-year limnology case study on Lake Wuli, China
+SO WATER RESEARCH
+DT Article
+DE Temporal diversity; Management intervention; Eutrophication; Rotifers
+   and crustaceans; Synchrony; Cyanobacteria
+ID LONG-TERM STABILITY; TOP-DOWN; SEASONAL SUCCESSION; ECOSYSTEM SERVICES;
+   FRESH-WATER; COMMUNITY STABILITY; RIVER RESTORATION; PELAGIC COMMUNITY;
+   PEG-MODEL; BOTTOM-UP
+AB There have been many studies on the effects of eutrophication on beta diversity (8-diversity) of species assemblages. However, few studies have focused on the effects of nutrient reduction on 8-diversity and community structure, and long-time series analyses are particularly scarce. We conducted a 19-year case study on the impacts of management intervention on the temporal 8-diversity of aquatic grazers in a lake at the Yangtze River Basin. In our study, we compared the changes in temporal 8-diversity as well as its two components, nestedness and turnover, and the synchrony of the rotifer community after management intervention. Our results showed that while the abundance of some sensitive species increased, there was no trend in species richness. Moreover, both the seasonality and interannual stabilities of rotifer assemblages increased. The species synchrony decreased in both spring and summer after management intervention. We also found that management intervention significantly reduced nutrient concentrations but not water clarity and phytoplankton abundance. The total nitrogen (TN): total phosphorous (TP) ratio was reduced after management intervention, causing an increase in the abundance of cyanobacteria that may contribute to the increase of rotifer synchrony in autumn. Our results imply that stable environmental fluctuations after management intervention may increase temporal 8-diversity and stability of herbivorous assemblages. However, imbalanced changes in TN and TP after management intervention may weaken the top-down control of zooplankton on phytoplankton and slow down water clarity improvement.
+C1 [Li, Yun; Shen, Ruijie; Liu, Xia; Chen, Feizhou] Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing 210008, Peoples R China.
+   [Su, Haojie] Yunnan Univ, Inst Ecol Res & Pollut Control Plateau Lakes, Sch Ecol & Environm Sci, Kunming 650091, Peoples R China.
+   [Wu, Fuqin] Yunnan Inst Forest Inventory & Planning, Kunming 650051, Peoples R China.
+   [Chen, Feizhou] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+C3 Chinese Academy of Sciences; Nanjing Institute of Geography & Limnology,
+   CAS; Yunnan University; Chinese Academy of Sciences; University of
+   Chinese Academy of Sciences, CAS
+RP Chen, FZ （連絡著者）、Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing 210008, Peoples R China.; Chen, FZ （連絡著者）、Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+EM liyun@niglas.ac.cn; feizhch@niglas.ac.cn
+PD JUN 1
+PY 2022
+VL 216
+AR 118364
+DI 10.1016/j.watres.2022.118364
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+ER
+
+PT J
+AU Tison-Rosebery, J
+   Leboucher, T
+   Archaimbault, V
+   Belliard, J
+   Carayon, D
+   Ferreol, M
+   Floury, M
+   Jeliazkov, A
+   Tales, E
+   Villeneuve, B
+   Passy, SI
+AF Tison-Rosebery, J.
+   Leboucher, T.
+   Archaimbault, V
+   Belliard, J.
+   Carayon, D.
+   Ferreol, M.
+   Floury, M.
+   Jeliazkov, A.
+   Tales, E.
+   Villeneuve, B.
+   Passy, S., I
+TI Decadal biodiversity trends in rivers reveal recent community
+   rearrangements
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Aquatic diversity; Global change; Temporal trends; Diatoms; Fish;
+   Macroinvertebrates
+ID CLIMATE-CHANGE; FRESH-WATER; SPECIES RICHNESS; FISH COMMUNITIES; STREAM
+   FISH; RE-OLIGOTROPHICATION; FUNCTIONAL DIVERSITY; TRAIT; IMPACTS;
+   MACROINVERTEBRATE
+AB While it is recognized that biodiversity currently declines at a global scale, we still have an incomplete understanding of local biodiversity trends under global change. To address this deficiency, we examined the recent decadal trends in water quality and biodiversity (taxonomic and functional) of key river organisms (diatoms, macroinvertebrates and fish) in France. We implemented regression, RLQ and fourth-corner analyses. Our results showed that nutrient loads tended to decrease, diatom richness tended to decline and macoinvertebrate richness tended to increase. The recovery of sensitive taxa in all three groups suggested a successful outcome of water quality management in France over the past decades. Our study further revealed consistent rearrangements within river communities, with a decrease in the ratio of planktonic to benthic diatoms, and corresponding functional changes in macroinvertebrate and fish trait composition, indicative of a trophic cascade in response to changes in environmental conditions.
+C1 [Tison-Rosebery, J.; Leboucher, T.; Villeneuve, B.] INRAE, UR EABX, F-33612 Cestas, France.
+   [Archaimbault, V; Belliard, J.; Jeliazkov, A.; Tales, E.] Univ Paris Saclay, INRAE, UR HYCAR, F-92160 Antony, France.
+   [Carayon, D.] INRAE, UR ETBX, F-33612 Cestas, France.
+   [Ferreol, M.] INRAE, UR RIVERLY, F-69625 Villeurbanne, France.
+   [Floury, M.] Univ Claude Bernard Lyon 1, Univ Lyon, CNRS, ENTPE,UMR 5023 LEHNA, F-69622 Villeurbanne, France.
+   [Passy, S., I] Univ Texas Arlington, Dept Biol, Arlington, TX 76019 USA.
+C3 INRAE; INRAE; UDICE-French Research Universities; Universite Paris
+   Saclay; INRAE; INRAE; Centre National de la Recherche Scientifique
+   (CNRS); CNRS - Institute of Ecology & Environment (INEE); UDICE-French
+   Research Universities; Universite Claude Bernard Lyon 1; University of
+   Texas System; University of Texas Arlington
+RP Tison-Rosebery, J （連絡著者）、INRAE, UR EABX, F-33612 Cestas, France.
+EM juliette.rosebery@inrae.fr
+PD JUN 1
+PY 2022
+VL 823
+AR 153431
+DI 10.1016/j.scitotenv.2022.153431
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Garrison, JA
+   Karlson, AML
+   Nascimento, FJA
+AF Garrison, Julie A.
+   Karlson, Agnes M. L.
+   Nascimento, Francisco J. A.
+TI Amphipod Isotope Composition, Condition and Reproduction in Contrasting
+   Sediments: A Reciprocal Transfer Experiment
+SO FRONTIERS IN MARINE SCIENCE
+DT Article
+DE stable isotopes; organic matter content; Monoporeia affinis; isotopic
+   niche; Baltic Sea
+ID DEPOSIT-FEEDING AMPHIPOD; DEPENDENT COMPETITIVE ABILITY; OPEN-SEA AREA;
+   MONOPOREIA-AFFINIS; BALTIC SEA; PONTOPOREIA-AFFINIS; BENTHIC MACROFAUNA;
+   EUTROPHICATION; SIZE; ENRICHMENT
+AB Eutrophication is a process that results in excessive phytoplankton blooms, which sink to the sediment and enrich the organic matter (OM). This alters the available resources to benthic organisms and may have consequences for feeding ecology and reproduction strategies of marine populations. While effects of eutrophication on biodiversity are well documented, the more subtle effects of OM on population dynamics and diet plasticity are understudied. We performed a reciprocal transfer experiment with the benthic bioindicator amphipod Monoporeia affinis from two stations in the Baltic Sea with differing sediment OM (low and high) creating four treatments (low control, low transferred, high transferred, and high control). We investigated sediment OM effects on: i) the dietary niche and organism body condition of two different life stages of M. affinis utilizing bulk stable isotopes delta C-13 and delta N-15, and C:N ratio; and ii) M. affinis fecundity and embryo viability. There was no initial significant differences between the females from different stations in terms of delta C-13, delta N-15, C:N, fecundity or viable embryos. However, we found that moving females from high OM to low OM (where the low OM sediment has higher delta N-15 and lower delta C-13) significantly depleted their C-13 values, while amphipods in low OM sediment had always significantly enriched N-15 regardless of female origin indicating feeding on the new sediment. Although end-of-experiment females had lower C:N than initial females, individuals in low OM sediment presented significantly higher C:N (indicating higher body condition) than those in high OM sediment. Conversely to adult amphipods, no effects of OM were seen for juveniles delta C-13 or delta N-15, but their individual biomass was larger in high OM sediment treatments and high OM transferred to low OM sediment. Our results indicate that the low range of sediment OM tested here altered female amphipod delta C-13, delta N-15 and C:N ratios, with those in low OM treatments having a better body condition, but those in high OM treatments had a greater reproductive success in terms of offspring biomass. Our findings suggest a tradeoff between female condition and reproduction and indicates that even relatively small levels of sediment organic enrichment will impact female condition. Our study provides valuable information useful to interpret the effects of OM on amphipod populations used as bioindicators for anthropogenic impacts.
+C1 [Garrison, Julie A.; Karlson, Agnes M. L.; Nascimento, Francisco J. A.] Stockholm Univ, Dept Ecol Environm & Plant Sci, Stockholm, Sweden.
+   [Karlson, Agnes M. L.; Nascimento, Francisco J. A.] Stockholm Univ, Balt Sea Ctr, Stockholm, Sweden.
+C3 Stockholm University; Stockholm University
+RP Garrison, JA; Karlson, AML （連絡著者）、Stockholm Univ, Dept Ecol Environm & Plant Sci, Stockholm, Sweden.; Karlson, AML （連絡著者）、Stockholm Univ, Balt Sea Ctr, Stockholm, Sweden.
+EM julie.garrison@su.se; agnes.karlsson@su.se
+PD MAY 30
+PY 2022
+VL 9
+AR 789700
+DI 10.3389/fmars.2022.789700
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+ER
+
+PT J
+AU Jiao, CC
+   Zhao, DY
+   Zeng, J
+   Wu, QLL
+AF Jiao, Congcong
+   Zhao, Dayong
+   Zeng, Jin
+   Wu, Qinglong L.
+TI Eutrophication in subtropical lakes reinforces the dominance of
+   balanced-variation component in temporal bacterioplankton community
+   heterogeneity by lessening stochastic processes
+SO FEMS MICROBIOLOGY ECOLOGY
+DT Article
+DE abundance-gradient component; bacterioplankton community;
+   balanced-variation component; environmental filtering; lake
+   eutrophication; network complexity
+ID NUTRIENT ENRICHMENT; BETA-DIVERSITY; CHLOROPHYLL-A; ASSEMBLAGES;
+   ABUNDANCE; DISSIMILARITY; BIODIVERSITY; NETWORKS; PATTERNS
+AB This study first elucidates the shifts in the relative contributions of balanced-variation and abundance-gradient components to total temporal beta-diversity of bacterioplankton communities along the trophic state gradient, which are linked to the changes in the balance between deterministic and stochastic processes.
+   Unveiling the rules of bacterioplankton community assembly in anthropogenically disturbed lakes is a crucial issue in aquatic ecology. However, it is unclear how the ecological processes underlying the seasonally driven bacterioplankton community structure respond to varying degrees of lake eutrophication. We, therefore, collected water samples from three subtropical freshwater lakes with various trophic states (i.e. oligo-mesotrophic, mesotrophic, and eutrophic states) on a quarterly basis between 2017 and 2018. To innovatively increase our understanding of bacterioplankton community assembly along the trophic state gradient, the total bacterioplankton community dissimilarity was subdivided into balanced variation in abundances and abundance gradients. The results indicated that balanced-variation component rather than abundance-gradient component dominated the total temporal beta-diversity of bacterioplankton communities across all trophic categories. Ecological stochasticity contributed more to the overall bacterioplankton community assembly in the oligo-mesotrophic and mesotrophic lakes than in the eutrophic lake. The reduced bacterioplankton network complexity at the eutrophic level was closely associated with the enhancement of environmental filtering, showing that bacterioplankton communities in eutrophic lakes are likely to be less stable and more vulnerable to water quality degradation. Together, this study offers essential clues for biodiversity conservation in subtropical lakes under future intensified eutrophication.
+C1 [Jiao, Congcong; Zhao, Dayong] Hohai Univ, Joint Int Res Lab Global Change & Water Cycle, State Key Lab Hydrol Water Resources & Hydraul En, 1 Xikang Rd, Nanjing 210098, Peoples R China.
+   [Jiao, Congcong; Zeng, Jin; Wu, Qinglong L.] Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, 73 East Beijing Rd, Nanjing 210008, Peoples R China.
+   [Wu, Qinglong L.] Univ Chinese Acad Sci, Sino Danish Ctr Educ & Res, 19 Yuquan Rd, Beijing 100049, Peoples R China.
+C3 Hohai University; Chinese Academy of Sciences; Nanjing Institute of
+   Geography & Limnology, CAS; Chinese Academy of Sciences; University of
+   Chinese Academy of Sciences, CAS
+RP Zeng, J （連絡著者）、Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, 73 East Beijing Rd, Nanjing 210008, Peoples R China.
+EM jzeng@niglas.ac.cn
+PD MAY 23
+PY 2022
+VL 98
+IS 6
+AR fiac051
+DI 10.1093/femsec/fiac051
+SC Microbiology
+ER
+
+PT J
+AU Melo, AS
+   Froehlich, CG
+AF Melo, Adriano S.
+   Froehlich, Claudio G.
+TI An attractor domain model of seasonal and inter-annual beta diversity of
+   stream macroinvertebrate communities
+SO FRESHWATER BIOLOGY
+DT Article
+DE aquatic insects; disturbance; inter-annual variation; persistence; spate
+ID VARIABILITY; DISTURBANCE; DISPERSAL; RICHNESS; ASSEMBLAGES; POPULATIONS;
+   PATTERNS; FLOODS
+AB 1. Ecological communities are dynamic systems that vary within and across years. In streams, disturbance by spates and the emergence of adult insects during the rainy summer contrast with more stable conditions in the dry winter and can potentially generate distinct and repeatable community states across years. However, demographic stochasticity and the legacies of previous spates may hamper the full attainment of characteristic community states associated with seasons.
+   2. We developed an attractor domain model encapsulating these factors and hypothesised: (1) partially distinct rainy (summer) and dry (winter) communities. High benthic dynamism during the rainy period should cause higher inter-annual variability, leading to (2) higher temporal beta diversity among rainy periods than among dry periods. Historical effects (e.g., demographic stochasticity and disturbance by spates) should accumulate over the years and lead to (3) increased variation in community structures sampled further apart in time; furthermore, (4) this increase in variation should be higher among rainy than among dry communities.
+   3. We used data of stream macroinvertebrates (mostly insects) in a subtropical basin in Brazil to evaluate inter-annual variation using rank-concordance statistics of the most common species and dissimilarity using all species.
+   4. For each stream site, samples obtained in the two seasons tended to show distinct community structure using relative abundance data but were much less distinct using species composition (presence-absence). Temporal beta diversity was higher among rainy than among dry seasons. The beta diversity of both seasons increased with time, although this increase was 2-3 times greater during the rainy season.
+   5. Our results support a model in which rainy (summer) communities are disrupted by the high dynamism caused by spates and the emergence of adult insects. The low intensity of these two factors during dry (winter) periods allows local environmental conditions to drive community structures toward a less variable, recurrent attractor state. However, the increase in 11 diversity with time indicates that the legacy effects of previous disturbances and demographic stochasticity preclude the full attainment of a definite stable state and that only a domain of states is approached.
+C1 [Melo, Adriano S.] Univ Estadual Campinas, Inst Biol, Programa Posgrad Ecol, Campinas, SP, Brazil.
+   [Melo, Adriano S.] Univ Fed Rio Grande do, Inst Biociencias, Dept Ecol, Porto Alegre, RS, Brazil.
+   [Froehlich, Claudio G.] Univ Sao Paulo, Dept Biol, FFCLRP, Ribeirao Preto, SP, Brazil.
+C3 Universidade de Sao Paulo; Universidade Estadual de Campinas;
+   Universidade de Sao Paulo
+RP Melo, AS （連絡著者）、Univ Fed Rio Grande do Sul, Inst Biociencias, Dept Ecol, Av Bento Goncalves 9500, BR-91501970 Porto Alegre, RS, Brazil.
+EM asm.adrimelo@gmail.com
+PD AUG
+PY 2022
+VL 67
+IS 8
+BP 1370
+EP 1379
+DI 10.1111/fwb.13923
+EA MAY 2022
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+ER
+
+PT J
+AU Li, Y
+   Geng, MD
+   Yu, JL
+   Du, YX
+   Xu, M
+   Zhang, WZ
+   Wang, JJ
+   Su, HJ
+   Wang, R
+   Chen, FZ
+AF Li, Yun
+   Geng, Mengdie
+   Yu, Jinlei
+   Du, Yingxun
+   Xu, Min
+   Zhang, Weizhen
+   Wang, Jianjun
+   Su, Haojie
+   Wang, Rong
+   Chen, Feizhou
+TI Eutrophication decrease compositional dissimilarity in freshwater
+   plankton communities
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Dissimilarity; Eutrophication; Diversity; Trophic cascade;
+   High-throughput sequencing; Plankton communities; Top-down effects
+ID BETA-DIVERSITY; LAND-USE; NUTRIENT ENRICHMENT; SPECIES-DIVERSITY; CHANGE
+   IMPACTS; HOMOGENIZATION; PHYTOPLANKTON; BIODIVERSITY; MARINE;
+   ZOOPLANKTON
+AB Human activities, such as land use change and eutrophication, threaten freshwater biodiversity and ecosystem function. In this study, we examined both the alpha- and 0-diversity of plankton communities, that is, bacteria/prokaryotic algae, eukaryotic algae, and zooplankton/metazoans, using both classical microscopy and high-throughput sequencing methods across 40 lakes of the Yangtze River Basin. The spatial variations in plankton communities were explained by environmental variables such as trophic status index (TSI) and environmental heterogeneity according to nonmetric multidimensional scaling analyses, mantel tests, and structural equation model. Our results showed that the compositional dissimilarities of bacteria, cyanobacteria, eukaryotic algae, and metazoans all decreased with the increasing TSI values, and were significantly positively related to environmental dissimilarity. Both the species richness and compositional dissimilarity of zooplankton had positive effects on zooplankton/phytoplankton biomass ratio. Zooplankton diversity was not directly affected by TSI and environmental dissimilarity; however, it was indirectly affected by the biotic interactions with cyanobacteria or eukaryotic algae. In addition, there were significant positive relationships between bacteria/cyanobacteria and eukaryotic algae dissimilarities. Our results indicated that increased trophic status and decreased environmental dissimilarity as consequences of eutrophication may weaken the trophic cascading effects of planktonic food chain via reducing the top-down effects of zooplankton on phytoplankton.
+C1 [Li, Yun; Geng, Mengdie; Yu, Jinlei; Du, Yingxun; Xu, Min; Zhang, Weizhen; Wang, Jianjun; Wang, Rong; Chen, Feizhou] Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing 210008, Peoples R China.
+   [Geng, Mengdie] Jiangnan Univ, Sch Environm & Civil Engn, Wuxi 214122, Jiangsu, Peoples R China.
+   [Su, Haojie] Yunnan Univ, Sch Ecol & Environm Sci, Inst Ecol Res & Pollut Control Plateau Lakes, Kunming 650091, Yunnan, Peoples R China.
+   [Wang, Jianjun; Chen, Feizhou] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+C3 Chinese Academy of Sciences; Nanjing Institute of Geography & Limnology,
+   CAS; Jiangnan University; Yunnan University; Chinese Academy of
+   Sciences; University of Chinese Academy of Sciences, CAS
+RP Wang, R; Chen, FZ （連絡著者）、Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing 210008, Peoples R China.
+EM rwang@niglas.ac.cn; feizhch@niglas.ac.cn
+PD MAY 15
+PY 2022
+VL 821
+AR 153434
+DI 10.1016/j.scitotenv.2022.153434
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Gomes-Goncalves, RD
+   Araujo, FG
+AF Gomes-Goncalves, Rafaela de Sousa
+   Araujo, Francisco Gerson
+TI Relationships between environmental heterogeneity and fish beta
+   diversity in a tropical bay
+SO MARINE BIOLOGY RESEARCH
+DT Article; Early Access
+DE Biodiversity; habitat heterogeneity; coastal fish; estuarine areas
+ID RIO-DE-JANEIRO; SEPETIBA BAY; SPECIES-DIVERSITY; SURF ZONE; ASSEMBLAGES;
+   HABITAT; SILURIFORMES; BIODIVERSITY; COMMUNITIES; COEXISTENCE
+AB Estuarine shallow waters have many habitats favouring the colonization and establishment of different fish species. Our study investigated the variability in the composition of these communities by examining beta diversity and evaluated the relationship between fish beta diversity and environmental heterogeneity, which can be dependent on the level of human alteration to which an ecosystem is exposed. Our goal is to provide insights not only on the biodiversity, but also to help develop effective conservation measures. We sampled fish and environmental variables (physicochemical water variables and sediment nutrients and granulometry) in three zones (inner, middle and outer) of Sepetiba Bay, in Southeastern Brazil. The aims of our study were to compare fish communities in the different zones by using beta diversity and to investigate the relationship between environmental heterogeneity and beta diversity. Habitat conditions varied considerably among the zones. Relationships between species and environmental conditions were species-specific, and a weak positive correlation between environmental heterogeneity and beta diversity was found. The highest beta diversity was detected in the inner bay zone, suggesting that relatively more urbanized areas had greater environmental heterogeneity and, thus, higher beta diversity. Our results serve as a 'caution' to reduce the urbanization effects on these environments that sometimes can increase habitat heterogeneity and species richness. The 'weak' relationship suggest that the ecosystems may have been in the 'early stages' of human influences and managers should take into account that anthropogenic impacts would reduce beta diversity because continued degradation would lead to natural habitat reduction.
+   http://zoobank.org/urn:Isid:zoobank.org:pub:EBBEA81F-6D4D-4CB3-8796-7E2A578A8B03
+C1 [Gomes-Goncalves, Rafaela de Sousa; Araujo, Francisco Gerson] Univ Fed Rural Rio de Janeiro, Lab Ecol Peixes, BR 465,Km 7, BR-23970030 Seropedica, RJ, Brazil.
+C3 Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+RP Araujo, FG （連絡著者）、Univ Fed Rural Rio de Janeiro, Lab Ecol Peixes, BR 465,Km 7, BR-23970030 Seropedica, RJ, Brazil.
+EM gersonufrrj@gmail.com
+DI 10.1080/17451000.2022.2063902
+EA MAY 2022
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+ER
+
+PT J
+AU Vilenica, M
+   Maodus, IV
+   Mihaljevic, Z
+AF Vilenica, Marina
+   Maodus, Iva Vidakovic
+   Mihaljevic, Zlatko
+TI The Impact of Hydromorphological Alterations on Mayfly Assemblages of a
+   Mid-Sized Lowland River in South-Eastern Europe
+SO INSECTS
+DT Article
+DE Ephemeroptera; environmental stress; abiotic parameters; lotic habitats;
+   functional traits
+ID BENTHIC MACROINVERTEBRATES; EPHEMEROPTERA; HABITAT; DEGRADATION;
+   DISTURBANCE; INSECTA; STRESS; DRIFT; TAXA
+AB Simple Summary The majority of European lowland rivers are under the impact of multiple stressors (water quality, hydromorphological alterations, land-use), however, the consequences of these influences on mayflies have not been sufficiently studied. Therefore, we studied mayfly assemblages and their relationship to environmental factors along a mid-sized lowland river in Croatia. No significant differences in mayfly species richness and their functional traits were observed among the three habitat groups with different levels of hydromorphological alterations (near-natural, moderately altered, and severely altered habitats). This could be related to the river's connection to the numerous tributaries, and the variety of available microhabitats along the studied system, despite the existing hydromorphological pressures. A stronger relationship was found between mayflies and the water physico-chemical characteristics (water temperature, water velocity, oxygen content, and nutrient (e.g., nitrogen, phosphorous) concentrations) and agricultural and urban land-use. These results can contribute to the planning of management and conservation activities for lowland rivers and their biota according to the requirements of the European Water Framework Directive. Historically, rivers have been anthropogenically modified for different purposes worldwide (e.g., flood control, drinking water abstraction, and land drainage). Although the majority of European lowland rivers are under the impact of multiple stressors (water quality, hydromorphological alterations, land-use), the consequences of these influences on aquatic macroinvertebrates, including mayflies, have not been sufficiently studied. Therefore, with the aim of providing additional data on the response of mayflies to anthropogenic disturbances in riverine habitats, we studied mayfly assemblages and their relationship to environmental factors along a mid-sized lowland river in Croatia. No significant differences in mayfly species richness and their functional traits were observed among the three habitat groups with different levels of hydromorphological alterations (near-natural, moderately altered, and severely altered habitats). This could be related to the river's connection to the numerous tributaries, and the variety of available microhabitats along the studied system, despite the existing hydromorphological pressures. A stronger relationship was found between mayflies and the physico-chemical water characteristics and land-use. Water temperature, water velocity, oxygen content, and nutrient (e.g., nitrogen, phosphorous) concentrations related to agricultural and urban land-use were found to be the most important factors shaping mayfly assemblages in the studied lotic lowland system. These results can contribute to the planning of management and conservation activities for lowland rivers and their biota according to the requirements of the European Water Framework Directive.
+C1 [Vilenica, Marina] Univ Zagreb, Fac Teacher Educ, Petrinja 44250, Croatia.
+   [Maodus, Iva Vidakovic] Elektroprojekt Dd, Water Resources Nat & Environm Protect Sect, Civil & Architectural Engn Dept, Alexandera von Humboldta 4, Zagreb 10000, Croatia.
+   [Mihaljevic, Zlatko] Univ Zagreb, Fac Sci, Dept Biol, Div Zool, Rooseveltov Trg 6, Zagreb 10000, Croatia.
+C3 University of Zagreb; University of Zagreb
+RP Vilenica, M （連絡著者）、Univ Zagreb, Fac Teacher Educ, Petrinja 44250, Croatia.
+EM marina.vilenica@ufzg.hr; iva.vidakovic@gmail.com;
+   zlatko.mihaljevic@biol.pmf.hr
+PD MAY
+PY 2022
+VL 13
+IS 5
+AR 436
+DI 10.3390/insects13050436
+SC Entomology
+ER
+
+PT J
+AU Dalu, T
+   Cuthbert, RN
+   Moyo, S
+   Wasserman, RJ
+   Chari, LD
+   Weyl, OLF
+   Jackson, MC
+AF Dalu, Tatenda
+   Cuthbert, Ross N.
+   Moyo, Sydney
+   Wasserman, Ryan J.
+   Chari, Lenin D.
+   Weyl, Olaf L. F.
+   Jackson, Michelle C.
+TI Invasive carp alter trophic niches of consumers and basal resources in
+   African reservoirs
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Stable isotope analysis; Vertebrates; Trophodynamics; Organic pollution;
+   Reservoirs; Niche conservatism
+ID ECOLOGICAL IMPACTS; STABLE-ISOTOPES; COMMON CARP; CHALLENGES; KNOWLEDGE;
+   LAKE
+AB Environmental pollution and biological invasions are key drivers of biodiversity change. However, the effects of invasion and pollution on food webs remain largely unexplored. Here, we used stable isotopes to examine the effects of common carp Cyprinus carpio and pollution on trophic dynamics in six small reservoirs. Our results revealed that the trophic niche widths of invertebrates, vertebrates, and invasive carp did not significantly differ among reservoirs with different pollution statuses. However, we found low niche conservatism among reservoirs, suggesting that while niche width may remain consistent, there is a shift in the position of the niches in isotopic space under both pollution and invasion scenarios. Niche conservatism among reservoirs was generally higher in invertebrates, but this was also regardless of reservoir condition (i.e. presence or absence of pollution and invasion). These results suggest that invasion by species coupled with organic pollution may cause subtle yet differing effects on components of a food web (basal end-members, invertebrates and vertebrates). Our findings provide a baseline measure of the potential in the development of detection and response strategies for carp invasions and organic pollution.
+C1 [Dalu, Tatenda] Univ Mpumalanga, Sch Biol & Environm Sci, ZA-1200 Nelspruit, South Africa.
+   [Dalu, Tatenda; Cuthbert, Ross N.; Wasserman, Ryan J.; Weyl, Olaf L. F.] South African Inst Aquat Biodivers, ZA-6140 Makhanda, South Africa.
+   [Dalu, Tatenda] Wissenschaftskolleg Berlin Inst Adv Study, D-14193 Berlin, Germany.
+   [Cuthbert, Ross N.] GEOMAR HelmholtzZentrum Ozeanforsch Kiel, D-24105 Kiel, Germany.
+   [Moyo, Sydney] Rhodes Coll, Dept Biol, Memphis, TN 38112 USA.
+   [Moyo, Sydney] Rhodes Coll, Program Environm Studies & Sci, Memphis, TN 38112 USA.
+   [Wasserman, Ryan J.; Chari, Lenin D.] Rhodes Univ, Dept Zool & Entomol, ZA-6140 Makhanda, South Africa.
+   [Chari, Lenin D.] Rhodes Univ, Ctr Biol Control, Dept Zool & Entomol, ZA-6140 Makhanda, South Africa.
+   [Jackson, Michelle C.] Univ Oxford, Dept Zool, Oxford OX1 3SZ, England.
+C3 National Research Foundation - South Africa; South African Institute for
+   Aquatic Biodiversity; Helmholtz Association; GEOMAR Helmholtz Center for
+   Ocean Research Kiel; Rhodes University; Rhodes University; University of
+   Oxford
+RP Dalu, T （連絡著者）、Univ Mpumalanga, Sch Biol & Environm Sci, ZA-1200 Nelspruit, South Africa.
+EM dalutatenda@yahoo.co.uk
+PD MAR 20
+PY 2022
+VL 813
+AR 152625
+DI 10.1016/j.scitotenv.2021.152625
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Cook, SC
+   Back, JA
+   King, RS
+AF Cook, Stephen C.
+   Back, Jeffrey A.
+   King, Ryan S.
+TI Compensatory dynamics of lotic algae break down nonlinearly with
+   increasing nutrient enrichment
+SO ECOLOGY
+DT Article
+DE algae; biodiversity; compensatory dynamics; lotic; niche partitioning;
+   nutrient enrichment; river; seasonality; stability; stream; temporal
+ID FRESH-WATER; ECOSYSTEM STABILITY; TEMPORAL VARIATION; GRAZER CONTROL;
+   STREAM; BIODIVERSITY; DIVERSITY; EUTROPHICATION; PRODUCTIVITY;
+   PERIPHYTON
+AB One important mechanism governing the temporal maintenance of biodiversity is asynchrony in co-occurring competitors due to fluctuating environments (i.e., compensatory dynamics). Temporal niche partitioning has evolved in response to predictable oscillations in environmental conditions so that species may offset competition, but we do not yet have a clear understanding of how novel anthropogenic stressors alter seasonal patterns of succession. Many primary producers are nutrient limited, and enrichment may decrease the importance of environmental fluctuations that govern which species are effective competitors under naturally low nutrient regimes. Consequently, elevated nutrient concentrations may synchronize species responses to seasonality. By studying benthic algal assemblages over 2 years from 35 streams that spanned a wide gradient of nutrient enrichment, we found that compensatory dynamics characterizing seasonal succession under natural nutrient regimes broke down at relatively low levels of total phosphorus (P) enrichment (similar to 25 mu g/L). With increasing P more species were able to coexist at any given time, and seasonal variation in assemblage composition was characterized by synchronous swings in species biovolumes. We also observed much higher instability in assemblage biovolumes with declines in compensatory dynamics, which indicates that anthropogenic alteration of nutrient regimes can affect community stability by changing the dominant mode of seasonal succession. Our findings indicate that compensatory fluctuations of stream algae are driven by seasonality and provide insight about how nutrient enrichment alters evolved drivers of species coexistence.
+C1 [Cook, Stephen C.; Back, Jeffrey A.; King, Ryan S.] Baylor Univ, Ctr Reservoir & Aquat Syst Res, Waco, TX 76798 USA.
+   [Cook, Stephen C.; King, Ryan S.] Baylor Univ, Dept Biol, Waco, TX 76798 USA.
+C3 Baylor University; Baylor University
+RP Cook, SC （連絡著者）、Baylor Univ, Ctr Reservoir & Aquat Syst Res, Waco, TX 76798 USA.; Cook, SC （連絡著者）、Baylor Univ, Dept Biol, Waco, TX 76798 USA.
+EM stephen.cook.c@gmail.com
+PD APR
+PY 2022
+VL 103
+IS 4
+AR e3613
+DI 10.1002/ecy.3613
+EA MAR 2022
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Seele-Dilbat, C
+   Kretz, L
+   Wirth, C
+AF Seele-Dilbat, Carolin
+   Kretz, Lena
+   Wirth, Christian
+TI Vegetation of natural and stabilized riverbanks and early effects of
+   removal of bank fixation
+SO INTERNATIONAL REVIEW OF HYDROBIOLOGY
+DT Article
+DE diversity; plants; restoration; river; traits
+ID ECOLOGICAL CONSEQUENCES; RESTORATION MEASURES; GROUND BEETLES; RIPARIAN;
+   BIODIVERSITY; DIVERSITY; STREAM; IMPACT; RIVERS; PATTERNS
+AB The majority of rivers in Europe has been dramatically altered in terms of their morphology and hydrology with severe consequences for the diversity and ecological functioning of the rivers and their floodplains. Consequently, an increasing number of river reaches has been restored over the past decades, often including the removal of bank fixation to reinitiate bank erosion and allowing for a rewidening of the rivers' cross-section. However, monitoring in detail the effect of such a measure on riverine vegetation is scarce. Using a Before-After-Control-Impact (BACI) design, we analysed the early changes of the vegetation 2 years after the removal of bank fixation at the Mulde River (central Germany). The results were compared with two types of control sites, representing a nonrestored as well as a natural riverbank that has never been fixed. We analysed differences in taxonomic and functional composition of the vegetation between bank types as well as community turnover after restoration. Two years after restoration, the vegetation differed clearly from the nonrestored sites. A substantial proportion of the community, especially the newly established species, became more similar to the natural bank community. Most importantly, spatiotemporal heterogeneity of the vegetation increased after removal of bank fixation, being an indicator for re-established dynamic processes similar to the natural site. The presented data serve as a baseline for a long-term monitoring and quantitative meta-analysis of restoration effects.
+C1 [Seele-Dilbat, Carolin; Kretz, Lena; Wirth, Christian] Univ Leipzig, Systemat Bot & Funct Biodivers, Life Sci, Johannisallee 21-23, D-04103 Leipzig, Germany.
+   [Seele-Dilbat, Carolin; Kretz, Lena] UFZ Helmholtz Ctr Environm Res, Dept Conservat Biol, Leipzig, Germany.
+   [Wirth, Christian] German Ctr Integrat Biodivers Res iDiv, Leipzig, Germany.
+   [Wirth, Christian] Max Planck Inst Biogeochem, Jena, Germany.
+C3 Leipzig University; Helmholtz Association; Helmholtz Center for
+   Environmental Research (UFZ); Max Planck Society
+RP Seele-Dilbat, C （連絡著者）、Univ Leipzig, Systemat Bot & Funct Biodivers, Life Sci, Johannisallee 21-23, D-04103 Leipzig, Germany.
+EM carolin.seele@uni-leipzig.de
+PD MAR
+PY 2022
+VL 107
+IS 1-2
+SI SI
+BP 88
+EP 99
+DI 10.1002/iroh.202102097
+EA MAR 2022
+SC Marine & Freshwater Biology
+ER
+
+PT J
+AU Wu, NC
+   Wang, YC
+   Wang, YX
+   Sun, XM
+   Faber, C
+   Fohrer, N
+AF Wu, Naicheng
+   Wang, Yaochun
+   Wang, Yixia
+   Sun, Xiuming
+   Faber, Claas
+   Fohrer, Nicola
+TI Environment regimes play an important role in structuring trait- and
+   taxonomy-based temporal beta diversity of riverine diatoms
+SO JOURNAL OF ECOLOGY
+DT Article
+DE anthropogenic impacts; beta diversity decomposition; convergence; flow
+   regime; lowland river; nestedness; nutrient regime; turnover
+ID ECOLOGICAL DRIVERS; GLOBAL PATTERNS; COMMUNITY; TURNOVER; PHYTOPLANKTON;
+   COMPONENTS; EUTROPHICATION; NESTEDNESS; DECREASES; STRESSORS
+AB A sound understanding of the community changes over time and its driving forces is at the centre of biodiversity conservation and ecology research. In this study, we examined: (i) the relative roles of turnover and nestedness components to trait- and taxonomy-based temporal beta diversity of riverine diatoms; (ii) whether trait-based temporal beta diversity provides complementary information to taxonomy-based temporal beta diversity; (iii) the relative roles of hydrology (e.g. discharge, antecedent precipitation index), metal ions (e.g. Mg2+, Si2+) and nutrients (e.g. nitrogen, orthophosphate) to the both facets of temporal beta diversity and their components (i.e. total beta diversity, turnover and nestedness); and (iv) whether inclusion of environment regimes increase their explained variations. A total of 338 daily samples of riverine diatom communities were collected. We employed Mantel tests to evaluate the complementarities between trait- and taxonomy-based temporal beta diversity. Using distance-based redundancy analysis (db-RDA) and variation partitioning, we investigated the relative roles of hydrology, metal ions and nutrients to each facet of temporal beta diversity and its components. Correlations between trait- and taxonomy-based temporal beta diversity and their components were weak, which showed their complementary ecological information. Taxonomy-based total beta diversity had a high contribution by turnover component, whereas trait-based total beta diversity was largely driven by nestedness component. Results of variation partitioning demonstrated that the pure and shared fractions of hydrology, metal ions and nutrient differed among the components of trait- and taxonomy-based temporal beta diversity. Furthermore, addition of environment regimes could dramatically increase the explained variation of temporal beta diversity and its components. Synthesis. Our results highlighted the importance of the two facets of temporal beta diversity as well as their decomposition for exploring diversity patterns of riverine diatoms in relation to abiotic factors, particularly the environment regimes. Although a high temporal taxonomic divergence was detected, the high level of temporal trait convergence indicated that species turnover with similar biological traits occurred during our study period. Our study, for the first time, provides a new perspective into temporal beta diversity of daily riverine diatom communities, which has not yet been documented by previous freshwater studies.
+C1 [Wu, Naicheng; Wang, Yaochun; Wang, Yixia] Ningbo Univ, Dept Geog & Spatial Informat Tech, Ningbo, Peoples R China.
+   [Wu, Naicheng; Sun, Xiuming; Faber, Claas; Fohrer, Nicola] Univ Kiel, Dept Hydrol & Water Resources Management, Kiel, Germany.
+C3 Ningbo University; University of Kiel
+RP Wu, NC （連絡著者）、Ningbo Univ, Dept Geog & Spatial Informat Tech, Ningbo, Peoples R China.; Wu, NC （連絡著者）、Univ Kiel, Dept Hydrol & Water Resources Management, Kiel, Germany.
+EM naichengwu88@gmail.com
+PD JUN
+PY 2022
+VL 110
+IS 6
+BP 1442
+EP 1454
+DI 10.1111/1365-2745.13859
+EA FEB 2022
+SC Plant Sciences; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Geng, MD
+   Zhang, WZ
+   Hu, T
+   Wang, R
+   Cheng, XY
+   Wang, JJ
+AF Geng, Mengdie
+   Zhang, Weizhen
+   Hu, Ting
+   Wang, Rong
+   Cheng, Xiaoying
+   Wang, Jianjun
+TI Eutrophication causes microbial community homogenization via modulating
+   generalist species
+SO WATER RESEARCH
+DT Article
+DE Biotic homogenization; Eutrophication; Generalist species; Local
+   contributions to beta diversity (LCBD); Beta diversity
+ID DISSOLVED ORGANIC-CARBON; BETA DIVERSITY; NUTRIENT ENRICHMENT; HABITAT
+   HETEROGENEITY; BIOTIC HOMOGENIZATION; LAKE TAIHU; BACTERIOPLANKTON;
+   PHYTOPLANKTON; ASSEMBLAGES; CONSEQUENCES
+AB Eutrophication substantially influences the community structure of aquatic organisms and has become a major threat to biodiversity. However, whether eutrophication is linked to homogenization of microbial communities and the possible underlying mechanisms are poorly understood. Here, we studied bacterial and fungal communities from water and sediments of 40 shallow lakes in the Yangtze-Huaihe River basin, a representative area characterized by intensifying eutrophication in China, and further examined the beta diversity patterns and underlying mechanisms under eutrophication conditions. Our results indicate that eutrophication generally caused biotic homogenization of bacterial and fungal communities in both habitats showing decreased community variations for the sites with a higher trophic state index (TSI). In the two habitats, community dissimilarities were positively correlated with TSI changes for both taxonomic groups, while the local contribution to beta diversity (LCBD) remarkably declined with increasing TSI for the fungal community. These phenomena were consistent with the pivotal importance of the TSI in statistically accounting for beta diversity of bacterial and fungal communities in both habitats. In addition, we found that physicochemical factors such as water temperature and pH were also important for bacterial and fungal communities in water, while heavy metal elements were important for the communities in sediments. Interestingly, generalist species, rather than specialist species, were revealed to more dominantly affect the variations in beta diversity along the trophic gradient, which were quantified by Bray-Curtis dissimilarity and LCBD. Collectively, our findings reveal the importance of generalist species in contributing to the change of beta diversity of microbial communities along trophic gradients, which have profound implications for a comprehensive understanding of the effects of eutrophication on microbial community.
+C1 [Geng, Mengdie; Cheng, Xiaoying] Jiangnan Univ, Sch Environm & Civil Engn, Wuxi 214122, Jiangsu, Peoples R China.
+   [Geng, Mengdie; Zhang, Weizhen; Hu, Ting; Wang, Rong; Wang, Jianjun] Chinese Acad Sci, Univ Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing 210008, Peoples R China.
+   [Zhang, Weizhen] Lanzhou Univ, Ctr Pan Pole Environm 3, Lanzhou 730000, Peoples R China.
+   [Wang, Jianjun] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+C3 Jiangnan University; Chinese Academy of Sciences; Nanjing Institute of
+   Geography & Limnology, CAS; University of Chinese Academy of Sciences,
+   CAS; Lanzhou University; Chinese Academy of Sciences; University of
+   Chinese Academy of Sciences, CAS
+RP Cheng, XY （連絡著者）、Jiangnan Univ, Sch Environm & Civil Engn, Wuxi 214122, Jiangsu, Peoples R China.; Wang, JJ （連絡著者）、Chinese Acad Sci, Univ Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing 210008, Peoples R China.
+EM chengxiaoy@jiangnan.edu.cn; jjwang@niglas.ac.cn
+PD FEB 15
+PY 2022
+VL 210
+AR 118003
+DI 10.1016/j.watres.2021.118003
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+ER
+
+PT J
+AU Yan, SJ
+   Sun, T
+   Wang, X
+   Liu, D
+   Zhang, YL
+   Yang, ZF
+AF Yan, Shengjun
+   Sun, Tao
+   Wang, Xuan
+   Liu, Dan
+   Zhang, Yunlong
+   Yang, Zhifeng
+TI Responses of Macroinvertebrate Community Temporal Dissimilarity and
+   Abundance to the Water Level Fluctuation Range in a Shallow Lake
+SO WATER
+DT Article
+DE community dissimilarity; macroinvertebrate abundance; water level
+   fluctuations; seasonality; freshwater lake
+ID BENTHIC MACROINVERTEBRATES; RIVER; ASSEMBLAGES; INDICATORS; PATTERNS;
+   INDEXES; QUALITY; FLOWS
+AB Variations in the hydrological regime are among the anthropogenic pressures affecting biological assemblage structure in shallow freshwater lakes. We estimated the effects of the water level fluctuation range on the temporal dissimilarity of the macroinvertebrate community by sampling benthic macroinvertebrate assemblages monthly in 2017 and bimonthly in 2018. Then, we applied a boosted regression trees (BRT) model to quantitatively analyzing the relationship between macroinvertebrate abundance and microhabitat factors in different seasons. To distinguish differences in water level fluctuations at the sample site scale, we proposed a variable, namely, the percentage of water level fluctuation range (PWLFR). The results were as follows. (1) An increased water level fluctuation range would lead to more temporally heterogeneous macroinvertebrate communities. Temporal dissimilarity of macroinvertebrates increased linearly in response to increasing water level fluctuation range. (2) Species abundance presented seasonal characteristics, and the dominant factors affecting species abundance varied with the seasons. PWLFR was the dominant variable explaining macroinvertebrate abundance in summer. Macroinvertebrate abundance showed positive effects with increasing PWLFR. (3) The interaction between chlorophyll a and PWLFR in summer promoted an increase in macroinvertebrate abundance. These findings may provide a basis for the formulation of effective ecological water replenishment management decisions aimed at maintaining the stability of shallow lake ecosystems in arid and semi-arid regions.
+C1 [Yan, Shengjun; Sun, Tao; Wang, Xuan; Liu, Dan; Zhang, Yunlong; Yang, Zhifeng] Beijing Normal Univ, Sch Environm, State Key Lab Water Environm Simulat, Beijing 100875, Peoples R China.
+   [Yan, Shengjun; Wang, Xuan; Liu, Dan; Zhang, Yunlong; Yang, Zhifeng] Beijing Normal Univ, Minist Educ, Key Lab Water & Sediment Sci, Beijing 100875, Peoples R China.
+   [Yan, Shengjun] Beijing Normal Univ, Adv Inst Nat Sci, Res & Dev Ctr Watershed Environm Ecoengn Zhuhai, Beijing 100875, Peoples R China.
+C3 Beijing Normal University; Beijing Normal University; Beijing Normal
+   University
+RP Wang, X （連絡著者）、Beijing Normal Univ, Sch Environm, State Key Lab Water Environm Simulat, Beijing 100875, Peoples R China.; Wang, X （連絡著者）、Beijing Normal Univ, Minist Educ, Key Lab Water & Sediment Sci, Beijing 100875, Peoples R China.
+EM ysjwyyx@126.com; suntao@bnu.edu.cn; wangx@bnu.edu.cn;
+   danliu@mail.bnu.edu.cn; yunlong@mail.bnu.edu.cn; shjyan@mail.bnu.edu.cn
+PD DEC
+PY 2021
+VL 13
+IS 23
+AR 3380
+DI 10.3390/w13233380
+SC Environmental Sciences & Ecology; Water Resources
+ER
+
+PT J
+AU Vieira, MC
+   Ortega, JCG
+   Vieira, LCG
+   Velho, LFM
+   Bini, LM
+AF Vieira, Maisa Carvalho
+   Ortega, Jean C. G.
+   Galli Vieira, Ludgero Cardoso
+   Machado Velho, Luiz Felipe
+   Bini, Luis Mauricio
+TI Evidence that dams promote biotic differentiation of zooplankton
+   communities in two Brazilian reservoirs
+SO HYDROBIOLOGIA
+DT Article
+DE Beta diversity; Dissimilarity; Freshwater; Neotropical region
+ID PARANA RIVER FLOODPLAIN; FISH ASSEMBLAGES; ENVIRONMENTAL HETEROGENEITY;
+   MISSOURI RIVER; BETA DIVERSITY; HOMOGENIZATION; ABUNDANCE; IMPACTS;
+   BIOMASS; DANUBE
+AB Human activities may change beta diversity-the spatial variation in species composition-in different ways. Positive and negative trends in beta diversity are referred as biotic differentiation and homogenization, respectively. In this context, river damming is likely to be a major cause of changes in beta diversity over time. Here, we evaluated the impact of damming on zooplankton beta diversity in two Brazilian reservoirs. We predicted that damming would cause biotic differentiation due to the creation of areas with different hydrological conditions, which would allow the colonization and population growth of species belonging to different zooplankton groups. Our results for the total zooplankton community were consistent with the hypothesis of biotic differentiation, either due to the increased mean beta diversity or due to the tendency of increasing beta diversity over time after damming. An indicator species analysis also showed that a large proportion of taxa that can be categorized as euplanktonic were mainly indicators of the period after damming, whereas the opposite was true for testate amoebae. Increased beta diversity should be interpreted as an impact of damming. However, we speculate that, under a process of water quality deterioration, biotic homogenization is likely to occur, reversing the patterns we observed.
+C1 [Vieira, Maisa Carvalho; Bini, Luis Mauricio] Univ Fed Goias, Dept Ecol, Av Esperanca S-N, BR-74690900 Goiania, Go, Brazil.
+   [Ortega, Jean C. G.] Univ Fed Acre, Programa Posgrad Ecol & Manejo Recursos Nat, BR-69915900 Rio Branco, AC, Brazil.
+   [Galli Vieira, Ludgero Cardoso] Univ Brasilia, Campus Planaltina,Area Univ 1, BR-73345010 Planaltina, Distrito Federa, Brazil.
+   [Machado Velho, Luiz Felipe] Univ Estadual Maringa, Nucleo Pesquisas Limnol Ictiol & Aquicultura NUPE, Av Colombo 5-790, BR-87020900 Maringa, Parana, Brazil.
+   [Machado Velho, Luiz Felipe] Univ Cesumar UniCesumar ICETI PPGTL, Av Guedner 1610, BR-87050900 Maringa, Parana, Brazil.
+C3 Universidade Federal de Goias; Universidade Estadual de Maringa
+RP Bini, LM （連絡著者）、Univ Fed Goias, Dept Ecol, Av Esperanca S-N, BR-74690900 Goiania, Go, Brazil.
+EM lmbini@gmail.com
+PD FEB
+PY 2022
+VL 849
+IS 3
+BP 697
+EP 709
+DI 10.1007/s10750-021-04740-5
+EA NOV 2021
+SC Marine & Freshwater Biology
+ER
+
+PT J
+AU Li, Y
+   Wang, R
+   Su, HJ
+   Wang, JJ
+   Xie, P
+   Chen, FZ
+AF Li, Yun
+   Wang, Rong
+   Su, Haojie
+   Wang, Jianjun
+   Xie, Ping
+   Chen, Feizhou
+TI Eutrophication and predation mediate zooplankton diversity and network
+   structure
+SO LIMNOLOGY AND OCEANOGRAPHY
+DT Article
+ID BETA DIVERSITY; NUTRIENT ENRICHMENT; ECOLOGICAL NETWORKS;
+   SPECIES-DIVERSITY; TROPHIC STRUCTURE; ATROPHIC CASCADE; CLIMATE-CHANGE;
+   BIODIVERSITY; PATTERNS; FISH
+AB Anthropogenic activities such as eutrophication and fishing have prominent effects on freshwater ecosystems. However, the ways in which ecosystem function and biodiversity respond to multiple drivers from eutrophication and top-down predation remains inconclusive. We studied zooplankton communities in 102 subtropical shallow lakes in the eastern plain of China and further examined the joint effects of nutrient enrichment and predation on biodiversity and ecological networks. We found that alpha diversity was negatively influenced by nutrient conditions (such as total phosphorus and total nitrogen [TN]), whereas beta diversity (beta-diversity) was positively related to nutrients and was also structured by omnivorous fish showing a unimodal pattern. Furthermore, the network skewness of zooplankton increased with nutrient enrichment, especially TN, and was negatively related to omnivorous fish. This skewness is more sensitive than beta-diversity, whereas negative skew is primarily caused by omnivorous fish. Our results demonstrated that top-down effects were dominant for zooplankton communities and resulted in structural adjustment of zooplankton communities, mainly with an increase in fish predation. A negative skewed network indicates the presence of more generalist species and stronger connections among the zooplankton assemblages, as well as decreased beta-diversity.
+C1 [Li, Yun; Wang, Rong; Wang, Jianjun; Chen, Feizhou] Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing, Peoples R China.
+   [Xie, Ping] Chinese Acad Sci, Inst Hydrobiol, State Key Lab Freshwater Ecol & Biotechnol, Donghu Expt Stn Lake Ecosyst, Wuhan, Peoples R China.
+   [Su, Haojie] Peking Univ, Coll Urban & Environm Sci, Dept Ecol, Beijing, Peoples R China.
+   [Chen, Feizhou] Univ Chinese Acad Sci, Beijing, Peoples R China.
+C3 Chinese Academy of Sciences; Nanjing Institute of Geography & Limnology,
+   CAS; Chinese Academy of Sciences; Institute of Hydrobiology, CAS; Peking
+   University; Chinese Academy of Sciences; University of Chinese Academy
+   of Sciences, CAS
+RP Chen, FZ （連絡著者）、Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing, Peoples R China.; Xie, P （連絡著者）、Chinese Acad Sci, Inst Hydrobiol, State Key Lab Freshwater Ecol & Biotechnol, Donghu Expt Stn Lake Ecosyst, Wuhan, Peoples R China.; Chen, FZ （連絡著者）、Univ Chinese Acad Sci, Beijing, Peoples R China.
+EM xieping@ihb.ac.cn; feizhch@niglas.ac.cn
+PD FEB
+PY 2022
+VL 67
+SU 1
+SI SI
+BP S133
+EP S145
+DI 10.1002/lno.11957
+EA OCT 2021
+SC Marine & Freshwater Biology; Oceanography
+ER
+
+PT J
+AU Hulot, FD
+   Msiteli-Shumba, S
+   Iung, M
+   Nous, C
+   Thebault, E
+AF Hulot, Florence D.
+   Msiteli-Shumba, S.
+   Iung, Mathias
+   Nous, Camille
+   Thebault, Elisa
+TI Spatiotemporal beta diversity of plankton species and their interactions
+   in permanent and temporal waterholes in a semiarid savannah
+SO INLAND WATERS
+DT Article
+DE food web beta diversity; food web connectance; Hwange National Park;
+   planktonic food web; temporary ponds; trophic level
+ID HWANGE NATIONAL-PARK; FRESH-WATER; LEVEL FLUCTUATIONS; BODY-SIZE;
+   DISPERSAL; DROUGHT; DISSIMILARITY; RESERVOIR; EVENTS
+AB Freshwater communities can vary greatly across space and time. Studying these variations (i.e., spatial and temporal beta diversity) provides fundamental information on the processes that maintain diversity and on the consequences of environmental changes on communities. Recently, drying events have been shown to strongly affect the spatial and temporal beta diversity of temperate freshwater ecosystems, but the effects of such events are mostly unknown for freshwater communities in semiarid climates frequently submitted to drying up. In addition, studies have so far focused on variations in species composition (i.e., species beta diversity), but variations in species trophic interactions (i.e., food web beta diversity) can give additional insights on how community functioning varies in space and time. We combined species and food web perspectives to explore the spatiotemporal beta diversity of plankton species and their trophic interactions in waterholes undergoing different water level regimes: either an alternation between dry and water-full states, or a permanent water-full state due to water pumping. Our results show that waterholes with artificial water pumping do not differ from natural waterholes in their contribution to spatiotemporal beta diversity. Instead, beta diversity is strongly driven by temporal variations of species composition and food web structure during the dry season, which is characterized by degraded planktonic communities with a low richness, diversity, and connectance. Species- and interaction-based approaches give complementary information on the spatiotemporal beta diversity by highlighting different planktonic communities with contrasted functioning.
+C1 [Hulot, Florence D.; Iung, Mathias; Nous, Camille] Univ Paris Sud, Univ Paris Saclay, CNRS, Ecol Systemat Evolut,AgroparisTech, Orsay, France.
+   [Hulot, Florence D.] CNRS CIRAD, Zone Atelier Hwange Hwange LTER, Dete, Zimbabwe.
+   [Msiteli-Shumba, S.] Univ Zimbabwe, Biol Sci Dept, Harare, Zimbabwe.
+   [Iung, Mathias; Thebault, Elisa] Univ Paris Est Creteil, Sorbonne Univ, CNRS IRD INRAE, Inst Ecol & Environm Sci Paris iEESParis, Paris, France.
+C3 AgroParisTech; Centre National de la Recherche Scientifique (CNRS);
+   UDICE-French Research Universities; Universite Paris Saclay; University
+   of Zimbabwe; INRAE; UDICE-French Research Universities; Sorbonne
+   Universite; Universite Paris Cite; Universite
+   Paris-Est-Creteil-Val-de-Marne (UPEC)
+RP Hulot, FD （連絡著者）、Univ Paris Sud, Univ Paris Saclay, CNRS, Ecol Systemat Evolut,AgroparisTech, Orsay, France.; Hulot, FD （連絡著者）、CNRS CIRAD, Zone Atelier Hwange Hwange LTER, Dete, Zimbabwe.
+EM florence.hulot@universite-paris-saclay.fr
+PD OCT 2
+PY 2021
+VL 11
+IS 4
+SI SI
+BP 508
+EP 521
+DI 10.1080/20442041.2021.1935612
+EA SEP 2021
+SC Marine & Freshwater Biology
+ER
+
+PT J
+AU Koperski, P
+AF Koperski, Pawel
+TI Linear and nonlinear effects of nutrient enrichments on the diversity of
+   macrobenthos in lowland watercourses
+SO AQUATIC ECOLOGY
+DT Article
+DE Biological assessment; Eutrophication; Macrofauna; Patterns of
+   diversity; Regression models
+ID LEECHES CLITELLATA HIRUDINIDA; LEAF-LITTER BREAKDOWN; MACROINVERTEBRATE
+   DIVERSITY; BIOLOGICAL ASSESSMENT; TAXONOMIC RESOLUTION; FUNCTIONAL
+   DIVERSITY; ASSEMBLAGE PATTERNS; WATER-QUALITY; UPLAND STREAM; LAND-USE
+AB The study concerns the relationships between taxonomic, functional and phylogenetic diversity of benthic invertebrates inhabiting watercourses and abiotic parameters associated with excessive nutrients load (concentration of Kjejdahl nitrogen, nitrates, phosphorus, organic carbon and dissolved oxygen, values of BOD5 and electrolytic conductivity). The research used data on the species composition of leeches, molluscs and larval forms of odonates and chironomid dipterans. Their description using mathematical functions allowed to determine whether the diversity reaches maximal values at extreme or moderate values of nutrients enrichment. In most cases, statistically significant relationships were unimodal-the highest diversity was observed at intermediate values of nutrients content and associated parameters, however the different patterns of relationships, monotonic and inverse quadratic, were also observed. Indirect impacts of nutrients enrichment on diversity were found as the most significant relationships. Significant responses of functional diversity were clearer and stronger than responses of taxonomic and phylogenetic diversity. The identification of fauna to the species level allowed for obtaining precise results that could enable selection of appropriate parameters for effective assessment of environmental degradation.
+C1 [Koperski, Pawel] Univ Warsaw, Inst Funct Biol & Ecol, Biol & Chem Res Ctr, Fac Biol, Zwirki & Wigury 101, PL-02089 Warsaw, Poland.
+C3 University of Warsaw
+RP Koperski, P （連絡著者）、Univ Warsaw, Inst Funct Biol & Ecol, Biol & Chem Res Ctr, Fac Biol, Zwirki & Wigury 101, PL-02089 Warsaw, Poland.
+EM p.t.koperski@uw.edu.pl
+PD SEP
+PY 2021
+VL 55
+IS 3
+BP 1011
+EP 1031
+DI 10.1007/s10452-021-09878-x
+EA JUN 2021
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+ER
+
+PT J
+AU Zhang, M
+   Shi, XL
+   Chen, FZ
+   Yang, Z
+   Yu, Y
+AF Zhang, Min
+   Shi, Xiaoli
+   Chen, Feizhou
+   Yang, Zhen
+   Yu, Yang
+TI The underlying causes and effects of phytoplankton seasonal turnover on
+   resource use efficiency in freshwater lakes
+SO ECOLOGY AND EVOLUTION
+DT Article
+DE nitrogen; phosphorus use efficiency; phytoplankton; temporal beta
+   diversity
+ID BETA-DIVERSITY; NUTRIENT ENRICHMENT; PLANKTON DYNAMICS; SPECIES
+   TURNOVER; BIODIVERSITY; COMMUNITIES; TIME; HETEROGENEITY; PRODUCTIVITY;
+   NESTEDNESS
+AB The extent of intra-annual turnover in phytoplankton communities is directly associated with the overall diversity. However, our understanding of the underlying causes and effects of intra-annual turnover remains limited. In this study, we performed a two-season investigation of the phytoplankton composition in the lakes of the Yangtze River catchment in China in spring and summer 2012, which covered a regional spatial scale. We analyzed the Sorensen pairwise dissimilarity (beta(sor)) between the two seasons, their driving factors, and effects on resource use efficiency in phytoplankton. The results showed that the changes in phytoplankton composition from spring to summer were not synchronous among these lakes. The spatial environmental characteristics, temporal changes in environmental variables and the initial phytoplankton composition together explained the variation in beta(sor) for phytoplankton, and their explanatory powers and primary driving variables depended on the phytoplankton taxonomic groups. Among the driving variables, increased nitrogen level and seasonal temperature difference will promote spring-summer community turnover and then improve the phosphorus use efficiency of phytoplankton community. The species diversity of the initial community might increase its stability and slow the spring-summer shift in phytoplankton, especially in cyanobacteria and Chlorophyta. Our study highlights the understanding of the patterns and underlying causes of temporal beta diversity in freshwater phytoplankton communities.
+C1 [Zhang, Min; Shi, Xiaoli; Chen, Feizhou; Yang, Zhen; Yu, Yang] Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing, Peoples R China.
+C3 Chinese Academy of Sciences; Nanjing Institute of Geography & Limnology,
+   CAS
+RP Zhang, M （連絡著者）、Chinese Acad Sci, Nanjing Inst Geog & Limnol, 73 East Beijing Rd, Nanjing 210008, Peoples R China.
+EM mzhang@niglas.ac.cn
+PD JUL
+PY 2021
+VL 11
+IS 13
+BP 8897
+EP 8909
+DI 10.1002/ece3.7724
+EA JUN 2021
+SC Environmental Sciences & Ecology; Evolutionary Biology
+ER
+
+PT J
+AU Shupryt, MP
+   Studinski, JM
+AF Shupryt, Michael P.
+   Studinski, Jered M.
+TI Spatial correlation of macroinvertebrate assemblages in streams and the
+   implications for bioassessment programs
+SO ENVIRONMENTAL MONITORING AND ASSESSMENT
+DT Article
+DE Macroinvertebrate; Stream; Dissimilarity; Biomonitoring; Bioassessment;
+   Spatial autocorrelation
+ID INVERTEBRATE ASSEMBLAGES; METACOMMUNITY ECOLOGY; BETA-DIVERSITY;
+   COMMUNITIES; PATTERNS; DISPERSAL; DISTANCE; INSECTS; METRICS
+AB Stream bioassessment using benthic macroinvertebrate assemblages is widely implemented by regulatory agencies, yet a critical question regarding spatial autocorrelation and sample independence remains: How much of a stream network does a point sample represent? Macroinvertebrate assemblages vary along a longitudinal gradient, likely due to a combination of natural and anthropogenic factors that alter water physiochemistry and habitat. A better understanding of how these gradients affect macroinvertebrate assemblage variance could prevent spatial over- and under-sampling within bioassessment efforts. This project investigated longitudinal patterns (10 s of km) of macroinvertebrate assemblages in 14 Wisconsin streams. Spatial autocorrelation was assessed using Moran's I and other multivariate methods with an emphasis on estimating the distance at which assemblages no longer display spatial correlation. Within most streams, there was a linear, direct relationship between assemblage dissimilarity and longitudinal distance, with distance to independence (DTI) ranging from 1.7-13.5 km. DTI was most strongly affected by conductivity, which is often a surrogate for a suite of anthropogenic effects. With increasing conductivity, DTI increases, suggesting more homogenous assemblages in disturbed streams. Natural factors like watershed size, channel gradient, and riparian slope also affected DTI. Considering spatial correlation in monitoring designs could improve the efficiency and application of regulatory bioassessment programs.
+C1 [Shupryt, Michael P.] Wisconsin Dept Nat Resources, 101 South Webster St, Madison, WI 53707 USA.
+   [Studinski, Jered M.] Univ Wisconsin, Coll Nat Resources, Trainer Nat Resources Bldg,800 Reserve St, Stevens Point, WI 54481 USA.
+C3 University of Wisconsin System; University of Wisconsin Stevens Point
+RP Shupryt, MP （連絡著者）、Wisconsin Dept Nat Resources, 101 South Webster St, Madison, WI 53707 USA.
+EM Michael.Shupryt@wisconsin.gov; Jered.Studinski@uwsp.edu
+PD JUN
+PY 2021
+VL 193
+IS 6
+AR 322
+DI 10.1007/s10661-021-09101-2
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Budnick, WR
+   Mruzek, JL
+   Larson, CA
+   Passy, SI
+AF Budnick, William R.
+   Mruzek, Joseph L.
+   Larson, Chad A.
+   Passy, Sophia I.
+TI The impacts of nutrient supply and imbalance on subcontinental
+   co-occurrence networks and metacommunity composition of stream algae
+SO ECOGRAPHY
+DT Article
+DE algae; climate; co-occurrence networks; dispersal; ecological guilds;
+   metacommunity composition
+ID FRESH-WATER; MICROBIAL COMMUNITIES; BIODIVERSITY LOSS; CLIMATE-CHANGE;
+   FOOD WEBS; DIVERSITY; LIMITATION; LAKE; PHOSPHORUS; NITROGEN
+AB The amounts and ratios of nutrients (nitrogen and phosphorus) are important determinants of producer community biodiversity and composition and their responses to climate and dispersal. However, the nutrient effects on co-occurrence network topology, particularly in freshwaters, are understudied. Here, we investigate 1) whether nutrient supply and ratio constrain topological properties of algal co-occurrence networks in streams and 2) to what extent climate and space (a surrogate for dispersal) affect co-occurrence network topology versus metacommunity composition across nutrient supply and ratio contexts. We used a subcontinental dataset of benthic algae from 840 stream localities in the conterminous US. We constructed co-occurrence networks representing nutrient supply contexts (oligotrophic versus eutrophic) and nutrient ratio contexts (N-limited versus P-limited) and statistically assessed topological variability within each pair via randomization. We then used a null model framework and direct gradient analysis to ascertain the importance of climate and space in driving, respectively, network topology and metacommunity composition. Nutrient supply was only positively related to network size (species node counts), which was driven by motile species, while other topological differences were non-significant. Climatic and spatial variables had pronounced and for the most part comparable effects on network topology that further depended on nutrient context. A comparative assessment of topological versus compositional responses to climate and space across nutrient contexts identified both similarities and differences. While climate and space contributed to both network topology and metacommunity composition, space was a stronger predictor of compositional variability than climate, regardless of nutrient context. Our findings highlight the need for developing integrative multi-level approaches (from metacommunities to co-occurrence networks) to fully understand biological responses to complex and interactive abiotic forces.
+C1 [Budnick, William R.; Mruzek, Joseph L.; Passy, Sophia I.] Univ Texas Arlington, Dept Biol, Arlington, TX 76019 USA.
+   [Larson, Chad A.] Washington State Dept Ecol, Environm Assessment Program, Lacey, WA USA.
+   [Budnick, William R.] Michigan State Univ, Dept Fisheries & Wildlife, E Lansing, MI 48824 USA.
+C3 University of Texas System; University of Texas Arlington; Michigan
+   State University
+RP Passy, SI （連絡著者）、Univ Texas Arlington, Dept Biol, Arlington, TX 76019 USA.
+EM sophia.passy@uta.edu
+PD JUL
+PY 2021
+VL 44
+IS 7
+BP 1109
+EP 1120
+DI 10.1111/ecog.05307
+EA MAY 2021
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Onandia, G
+   Maassen, S
+   Musseau, CL
+   Berger, SA
+   Olmo, C
+   Jeschke, JM
+   Lischeid, G
+AF Onandia, Gabriela
+   Maassen, Sebastian
+   Musseau, Camille L.
+   Berger, Stella A.
+   Olmo, Carla
+   Jeschke, Jonathan M.
+   Lischeid, Gunnar
+TI Key drivers structuring rotifer communities in ponds: insights into an
+   agricultural landscape
+SO JOURNAL OF PLANKTON RESEARCH
+DT Article
+DE biodiversity; eutrophication; freshwater; water quality; zooplankton
+ID SPECIES RICHNESS; ZOOPLANKTON DIVERSITY; TAXONOMIC RESOLUTION; WATER
+   RESERVOIRS; TEMPORARY PONDS; NATURAL PONDS; KETTLE HOLES; LAND-USE;
+   BIODIVERSITY; SHALLOW
+AB Understanding the influence of environmental and spatial factors on the structure of aquatic communities remains a major challenge in community ecology. This study aims to identify main drivers of rotifer abundance and diversity in ponds embedded in an intensive agricultural landscape in Northeast Germany. We studied 42 ponds of glacial origin (kettle holes) covering a wide range of environmental parameters. The predominant factors structuring the rotifer metacommunity shifted from abiotic environmental filtering in spring to unstudied factors in autumn, while spatial factors remained less important. Fertilizer-driven salinization, internal nutrient recycling, primary productivity and sediment phosphorus release were the prevalent biogeochemical processes in the ponds. Both fertilizer-driven salinization and primary productivity negatively affected rotifer alpha diversity, and positively affected beta diversity. This impact was lower in forest ponds than in those surrounded by arable fields or grassland. However, rotifer diversity did not significantly differ among land-use categories. Our results indicate that the long-term impact of intensive agriculture in the region and the associated widespread eutrophication overrides the direct influence of land use on rotifer diversity but point to an indirect effect via fertilizer-driven salinization. Furthermore, this study highlights the role of ponds in enhancing regional biodiversity in agricultural landscapes.
+C1 [Onandia, Gabriela; Maassen, Sebastian; Lischeid, Gunnar] Leibniz Ctr Agr Landscape Res ZALF, Res Platform Data Anal & Simulat, Eberswalder Str 84, D-15374 Muncheberg, Germany.
+   [Onandia, Gabriela; Maassen, Sebastian; Musseau, Camille L.; Berger, Stella A.; Jeschke, Jonathan M.; Lischeid, Gunnar] Berlin Brandenburg Inst Adv Biodivers Res BBIB, Konigin Luise Str 2-4, D-14195 Berlin, Germany.
+   [Musseau, Camille L.; Jeschke, Jonathan M.] Free Univ Berlin, Inst Biol, Konigin Luise Str 1-3, D-14195 Berlin, Germany.
+   [Musseau, Camille L.; Jeschke, Jonathan M.] Leibniz Inst Freshwater Ecol & Inland Fisheries I, Dept Ecosyst Res, Muggelseedamm 310, D-12587 Berlin, Germany.
+   [Berger, Stella A.] Leibniz Inst Freshwater Ecol & Inland Fisheries I, Dept Expt Limnol, Zur Alten Fischerhutte 2, D-16775 Stechlin, Germany.
+   [Olmo, Carla] Univ Mayor, Fac Ciencias, Gema Ctr Genom Ecol & Environm, Camino La Piramide 5780, Santiago 8580745, Chile.
+   [Lischeid, Gunnar] Univ Potsdam, Inst Environm Sci & Geog, Karl Liebknecht Str 24-25, D-14476 Potsdam, Germany.
+C3 Leibniz Zentrum fur Agrarlandschaftsforschung (ZALF); Free University of
+   Berlin; Leibniz Institut fur Gewasserokologie und Binnenfischerei (IGB);
+   Leibniz Institut fur Gewasserokologie und Binnenfischerei (IGB);
+   Universidad Mayor; University of Potsdam
+RP Onandia, G （連絡著者）、Leibniz Ctr Agr Landscape Res ZALF, Res Platform Data Anal & Simulat, Eberswalder Str 84, D-15374 Muncheberg, Germany.; Onandia, G （連絡著者）、Berlin Brandenburg Inst Adv Biodivers Res BBIB, Konigin Luise Str 2-4, D-14195 Berlin, Germany.
+EM gabriela.onandia@zalf.de
+PD MAY-JUN
+PY 2021
+VL 43
+IS 3
+BP 396
+EP 412
+DI 10.1093/plankt/fbab033
+EA MAY 2021
+SC Marine & Freshwater Biology; Oceanography
+ER
+
+PT J
+AU Alam, MK
+   Negishi, JN
+   Pongsivapai, P
+   Yamashita, S
+   Nakagawa, T
+AF Alam, Md Khorshed
+   Negishi, Junjiro N.
+   Pongsivapai, Pongpet
+   Yamashita, Shohei
+   Nakagawa, Tomohiro
+TI Additive Effects of Sediment and Nutrient on Leaf Litter Decomposition
+   and Macroinvertebrates in Hyporheic Zone
+SO WATER
+DT Article
+DE detritivores; ecosystem function; gravel-bed river; manipulation;
+   multiple stressors
+ID ORGANIC-MATTER BREAKDOWN; FRESH-WATER ECOSYSTEMS; MULTIPLE STRESSORS;
+   FINE SEDIMENT; WASTE-WATER; AGRICULTURAL STREAMS; TREATMENT-PLANT;
+   SUBSIDY-STRESS; SURFACE-WATER; RIVER
+AB Despite the fact that leaf decomposition constitutes an important function in rivers, how multiple environmental stressors simultaneously affect it remains largely unknown. This study investigated the interactive effects of fine sediments (particle size: <2 mm; experimentally manipulated) and a specific nutrient (i.e., nitrate) on subsurface (hyporheic) leaf litter decomposition rate and macroinvertebrates in a gravel-bed river and its tributary in eastern Hokkaido, Japan. The experiment was conducted by measuring leaf litter decomposition of dried Alnus japonica leaves (3 +/- 0.05 g) in benthic and hyporheic zones with and without sediment treatments at four sites that had a gradient of nitrate concentration. The decomposition rate was comparable between the two zones but was slowed down by sediment addition in the hyporheic zone. The functional responses were highly predictable for the individual stressors. Detritivore invertebrates were the main driving component of decomposition in the decreased leaf litter decomposition rate under a higher fine sediment condition, whereas higher nitrate accelerated the leaf litter decomposition rate by stimulated microbe-driven decomposition as well as detritivore feeding. Overall, the negative effect of fine sediment could be offset in the presence of nitrate while considering gross functional responses. We demonstrated the additive effects of fine sediment and nitrate on leaf litter decomposition in the hyporheic zone.
+C1 [Alam, Md Khorshed; Pongsivapai, Pongpet; Yamashita, Shohei; Nakagawa, Tomohiro] Hokkaido Univ, Grad Sch Environm Sci, Sapporo, Hokkaido 0600810, Japan.
+   [Negishi, Junjiro N.] Hokkaido Univ, Fac Environm Earth Sci, Sapporo, Hokkaido 0600810, Japan.
+C3 Hokkaido University; Hokkaido University
+RP Alam, MK （連絡著者）、Hokkaido Univ, Grad Sch Environm Sci, Sapporo, Hokkaido 0600810, Japan.; Negishi, JN （連絡著者）、Hokkaido Univ, Fac Environm Earth Sci, Sapporo, Hokkaido 0600810, Japan.
+EM khorshed1990@ees.hokudai.ac.jp; negishi@ees.hokudai.ac.jp;
+   nack2535@hotmail.com; shohei7425@eis.hokudai.ac.jp; 89tomohiro@gmail.com
+PD MAY
+PY 2021
+VL 13
+IS 10
+AR 1340
+DI 10.3390/w13101340
+SC Environmental Sciences & Ecology; Water Resources
+ER
+
+PT J
+AU de Andrade, MC
+   Ugaya, CML
+   Neto, JAD
+   Rodrigues, LB
+AF de Andrade, Maira Caetano
+   Ugaya, Cassia Maria Lie
+   de Almeida Neto, Jose Adolfo
+   Rodrigues, Luciano Brito
+TI Regionalized phosphorus fate factors for freshwater eutrophication in
+   Bahia, Brazil: an analysis of spatial and temporal variability
+SO INTERNATIONAL JOURNAL OF LIFE CYCLE ASSESSMENT
+DT Article
+DE Eutrophication; Fate modeling; LCIA; Phosphorus; Regionalization;
+   Sensitivity assessment; State hydrographic units; Uncertainty
+   propagation
+ID CYCLE IMPACT ASSESSMENT; PARAMETER UNCERTAINTY; EMISSIONS; MARINE;
+   ACIDIFICATION; TOXICITY; MIDPOINT; NITROGEN; BLOOMS
+AB Purpose Fate factors, for freshwater eutrophication, represent the route of a limiting-nutrient, phosphorus or nitrogen, and their degradation in the environment. Their value may vary according to the location and emission season; that is, they are site and temporal dependent. In this study, phosphorus fate factors for the freshwater eutrophication impact category were estimated in a native scale of state hydrographic units (SHU), considering its variability and applied in a case study for one hydrographic basin in the state of Bahia, Brazil. Methods The fate model considered the phosphorus removal processes of advection, retention, and agricultural and domestic water use, based on national databases (Geonetwork, HidroWeb, SAR, and SNIS). Heat maps and correlation networks allowed the assessment of fate factors' spatiotemporal variability. The new generated fate factors were qualitatively and quantitatively assessed, then further applied in a case study of buffalo milk production at Leste SHU to determine the regionalization effects on the freshwater eutrophication potential impact. Results and discussion This study reconfirmed the spatial and temporal variability of the fate factors. The fate factor values found, in this study, for Pardo SHU are similar to those estimated with the non-regionalized data used by the adopted model, being within the range of 0 to 20 days. However, the fate factors for De Contas and, mainly, for Leste were underestimated, reaching a value up to five times higher, indicating that the model's proposed changes impacted the final result. The temporal differentiation was mainly determined by periods of higher and lower water availability. Advection processes inversely determined the fate factors, and the phosphorus removal by retention processes became more prominent when the water availability was lower. On the other hand, the role of phosphorus removal through water use was minimum. Water availability was the largest contributor to the sensitivity analysis, followed by the total freshwater volume. Conclusion The fate modeling adopted in this study, with the use of data from national databases and native resolution, gave a more precise and detailed analysis perspective of the phosphorus fate in Brazilian SHUs, setting up site- and temporal-specific fate factors. Besides, this study provides a further understanding of the fate factors establishment by analyzing their relationship with the respective input parameters and highlighting one of the used model's weaknesses: the estimation of phosphorus removals instead of phosphorus load underestimates the true freshwater eutrophication potential.
+C1 [de Andrade, Maira Caetano; de Almeida Neto, Jose Adolfo] Univ Estadual Santa Cruz UESC, Jorge Amado Rd,Km 16, BR-45662900 Ilheus, BA, Brazil.
+   [Ugaya, Cassia Maria Lie] Univ Tecnol Fed Parana UTFPR, 5000 Deputado Heitor Alencar Furtado St, BR-81280340 Curitiba, Parana, Brazil.
+   [Rodrigues, Luciano Brito] Univ Estadual Sudoeste Bahia UESB, BR 415,Km 03, BR-45700000 Itapetinga, BA, Brazil.
+C3 Universidade Estadual de Santa Cruz; Universidade Tecnologica Federal do
+   Parana; Universidade Estadual do Sudoeste da Bahia
+RP de Andrade, MC （連絡著者）、Univ Estadual Santa Cruz UESC, Jorge Amado Rd,Km 16, BR-45662900 Ilheus, BA, Brazil.; Rodrigues, LB （連絡著者）、Univ Estadual Sudoeste Bahia UESB, BR 415,Km 03, BR-45700000 Itapetinga, BA, Brazil.
+EM andrade_maira_@hotmail.com; rodrigueslb@uesb.edu.br
+PD MAY
+PY 2021
+VL 26
+IS 5
+BP 879
+EP 898
+DI 10.1007/s11367-021-01912-2
+EA APR 2021
+SC Engineering; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Li, B
+   Wang, YY
+   Tan, WZ
+   Saintilan, N
+   Lei, GC
+   Wen, L
+AF Li, Bin
+   Wang, Yuyu
+   Tan, Wenzhuo
+   Saintilan, Neil
+   Lei, Guangchun
+   Wen, Li
+TI Land cover alteration shifts ecological assembly processes in floodplain
+   lakes: Consequences for fish community dynamics
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Community stability; Species synchrony; Variance rate; Ecological
+   stochasticity; Ecological deterministic; Null models
+ID LOCAL BIODIVERSITY CHANGE; RIVER-FLOODPLAIN; BETA-DIVERSITY;
+   DETERMINISTIC PROCESSES; STOCHASTIC-PROCESSES; SPATIAL PROCESSES;
+   UNITED-STATES; DONGTING LAKE; STABILITY; SYNCHRONY
+AB Habitat degradation is expected to alter community structure and consequently, ecosystem functions including the maintenance of biodiversity. Understanding the underlying abiotic and biotic assembly mechanisms controlling temporal and spatial community structure and patterns is a central issue in biodiversity conservation. In this study, using monthly time series of fish abundance data collected over a three-year period, we compared the temporal community dynamics in natural habitats and poplar plantations in one of the largest river-lake flood plain ecosystems in China, the Dongting Lake. We found a prevailing strong positive species covariance, i.e. species abundance changes in the same way, in all communities that was significantly negatively impacted by higher water nutrient levels. In contrast to species covariance, community stability, which was measured by the average of aggregated abundance divided by temporal standard deviation, was significantly higher in poplar plantations than in natural habitats. The positive species covariance, which was consistent for both wet and dry years and among habitat types, had significantly negative effects on community stability. Furthermore, our results demonstrated that the ecological stochasticity (i.e. community assembly processes generating diversity patterns that are indistinguishable from random chance) was significantly higher in natural sites than in poplar plantations, suggesting that deterministic processes might control the community composition (richness and abundance) at the modified habitat through reducing species synchrony and positive species covariance observed in the natural habitats, leading to significantly lower temporal beta-diversity. When combined, our results suggest that habitat modification created environmental conditions for the development of stable fish community in the highly dynamic floodplains, leading to niche-based community with lower temporal beta-diversity.
+   (c) 2021 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Li, Bin; Wang, Yuyu; Tan, Wenzhuo; Lei, Guangchun; Wen, Li] Beijing Forestry Univ, Sch Ecol & Nat Conservat, Beijing 100083, Peoples R China.
+   [Saintilan, Neil] Macquarie Univ, Dept Earth & Environm Sci, Sydney, NSW 2109, Australia.
+   [Wen, Li] NSW Dept Planning Ind & Environm, Div Sci, Sydney, NSW 2124, Australia.
+C3 Beijing Forestry University; Macquarie University
+RP Lei, GC （連絡著者）、Beijing Forestry Univ, Sch Ecol & Nat Conservat, Beijing 100083, Peoples R China.; Wen, L （連絡著者）、NSW Off Environm & Heritage, 480 Weeroona Rd, Lidcombe, NSW 2141, Australia.
+EM guangchun.lei@foxmail.com; li.wen@environment.nsw.gov.au
+PD AUG 15
+PY 2021
+VL 782
+AR 146724
+DI 10.1016/j.scitotenv.2021.146724
+EA APR 2021
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Michaels, J
+   Batzer, E
+   Harrison, S
+   Eviner, VT
+AF Michaels, Julia
+   Batzer, Evan
+   Harrison, Susan
+   Eviner, Valerie T.
+TI Grazing affects vegetation diversity and heterogeneity in California
+   vernal pools
+SO ECOLOGY
+DT Article
+DE beta diversity; disturbance; grazing; spatial scale; wetlands
+ID FALSE DISCOVERY RATE; PLANT DIVERSITY; SPATIAL HETEROGENEITY; GRASSLAND;
+   CONSEQUENCES; BIODIVERSITY; DISPERSAL; CATTLE; SCALE; FIRE
+AB Disturbance often increases local-scale (alpha) diversity by suppressing dominant competitors. However, widespread disturbances may also reduce biotic heterogeneity (beta diversity) by making the identities and abundances of species more similar among patches. Landscape-scale (gamma) diversity may also decline if disturbance-sensitive species are lost. California's vernal pool plant communities are species rich, in part because of two scales of beta diversity: (1) within pools, as species composition changes with depth (referred to here as vertical beta diversity), and (2) between pools, in response to dispersal limitation and variation in pool attributes (referred to here as horizontal beta diversity). We asked how grazing by livestock, a common management practice, affects vernal pool plant diversity at multiple hierarchical spatial scales. In terms of abundance-weighted diversity, grazing increased alpha both within local pool habitat zones and at the whole-pool scale, as well as gamma at the pasture scale without influencing horizontal or vertical beta diversity. In terms of species richness, increases in alpha diversity within habitat zones and within whole pools led to small decreases in horizontal beta diversity as species occupancy increased. This had a dampened effect on species richness at the gamma (pasture) scale without any loss of disturbance-sensitive species. We conclude that grazing increases species richness and evenness (alpha) by reducing competitive dominance, without large disruptions to the critical spatial heterogeneity (beta) that generates high landscape-level diversity (gamma).
+C1 [Michaels, Julia; Batzer, Evan; Eviner, Valerie T.] Univ Calif Davis, Dept Plant Sci, 1210 PES,Mail Stop 1,One Shields Ave, Davis, CA 95616 USA.
+   [Harrison, Susan] Univ Calif Davis, Dept Environm Sci & Policy, 1210 PES,Mail Stop 1,One Shields Ave, Davis, CA 95616 USA.
+C3 University of California System; University of California Davis;
+   University of California System; University of California Davis
+RP Michaels, J （連絡著者）、Univ Calif Davis, Dept Plant Sci, 1210 PES,Mail Stop 1,One Shields Ave, Davis, CA 95616 USA.
+EM jmichaels@ucdavis.edu
+PD APR
+PY 2021
+VL 102
+IS 4
+DI 10.1002/ecy.3295
+EA MAR 2021
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Zhang, Y
+   Leung, JYS
+   Zhang, Y
+   Cai, YJ
+   Zhang, ZM
+   Li, KY
+AF Zhang, You
+   Leung, Jonathan Y. S.
+   Zhang, Ying
+   Cai, Yongjiu
+   Zhang, Zhiming
+   Li, Kuanyi
+TI Agricultural activities compromise ecosystem health and functioning of
+   rivers: Insights from multivariate and multimetric analyses of
+   macroinvertebrate assemblages
+SO ENVIRONMENTAL POLLUTION
+DT Article
+DE Agricultural activity; Ecosystem health; Environmental monitoring and
+   assessment; Macroinvertebrate; Nutrient enrichment; Multimetric index
+AB Agricultural activities often lead to nutrient enrichment and habitat modification in rivers, possibly altering macroinvertebrate assemblages and hence ecosystem functioning. For the sake of environmental management and conservation, therefore, assessing the impacts of agricultural activities becomes indispensable, especially when these activities are predicted to be intensified in the future. In this study, the plain river network in the Lake Chaohu Basin was chosen to examine how agricultural activities influence the functioning of rivers by assessing land use, water quality, habitat condition and macroinvertebrate assemblages, followed by calculating the macroinvertebrate-based multimetric index (MMI) to indicate overall ecosystem health of the rivers. We found that agricultural activities lowered the diversity of macroinvertebrates (e.g. total number of taxa and Simpson index) primarily due to elevated ammonium concentrations in water and reduced microhabitat types, thereby impairing the habitat integrity and nutrient cycling of rivers. The macroinvertebrate-based MMI was positively correlated with increasing habitat quality but negatively with increasing nutrient concentrations, suggesting its high reliability for indicating the impacts of agricultural activities, which was further substantiated by classification and regression tree (CART) analysis. We recommend analyzing macroinvertebrate assemblages using both multivariate and multimetric approaches to offer a more comprehensive evaluation of the impacts of agricultural activities on ecosystem health. Some environmental (CODMn, NH4+-N and PO43--P) and biological parameters (total number of taxa), however, can be used as good proxies for MMI, when time and resources for gathering information to develop MMI are limited. (C) 2021 Elsevier Ltd. All rights reserved.
+C1 [Zhang, You; Cai, Yongjiu; Zhang, Zhiming; Li, Kuanyi] Chinese Acad Sci, Nanjing Inst Geog & Limnol, State Key Lab Lake Sci & Environm, Nanjing 210008, Peoples R China.
+   [Leung, Jonathan Y. S.] Univ Adelaide, Inst Environm, Sch Biol Sci, Southern Seas Ecol Labs, Adelaide, SA 5005, Australia.
+   [Leung, Jonathan Y. S.] Southwest Univ, Fac Mat & Energy, Chongqing 400715, Peoples R China.
+   [Zhang, Ying] Water Resources Planning Bur Jiangsu Prov, Nanjing 210029, Peoples R China.
+   [Li, Kuanyi] Univ Chinese Acad Sci, Sino Danish Coll, Beijing 100049, Peoples R China.
+C3 Chinese Academy of Sciences; Nanjing Institute of Geography & Limnology,
+   CAS; University of Adelaide; Southwest University - China; Chinese
+   Academy of Sciences; University of Chinese Academy of Sciences, CAS
+RP Li, KY （連絡著者）、Chinese Acad Sci, Nanjing Inst Geog & Limnol, 73 East Beijing Rd, Nanjing 210008, Peoples R China.
+EM kyli@niglas.ac.cn
+PD APR 15
+PY 2021
+VL 275
+AR 116655
+DI 10.1016/j.envpol.2021.116655
+EA FEB 2021
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Justus, BG
+   Driver, LJ
+   Burge, DRL
+AF Justus, Billy G.
+   Driver, Lucas J.
+   Burge, David R. L.
+TI Seasonal periphyton response to low-level nutrient exposure in a least
+   disturbed mountain stream, the Buffalo River, Arkansas
+SO ECOLOGICAL INDICATORS
+DT Article
+DE Periphyton; Confined Animal Feeding Operation (CAFO); Temporal
+   variability; Biological indices; Nutrient thresholds; Ecological
+   relevance
+ID DIATOM-BASED INDEX; WATER-QUALITY; BIOTIC INTEGRITY; LAND-USE;
+   BIOLOGICAL ASSESSMENT; STORM EVENTS; LONG-TERM; TOP-DOWN; ENRICHMENT;
+   MACROINVERTEBRATE
+AB Like most streams located in the Ozark Plateaus, the Buffalo River in Arkansas generally has excellent water quality. Water-quality conditions in Big Creek, however, a major tributary of the middle Buffalo River, have been less favorable than that of other Buffalo River tributaries. Concerns regarding the influence of water quality in Big Creek on the Buffalo River magnified in 2013 when a large confined animal feeding operation (CAFO) began operating in the watershed. In response to these concerns, the U.S. Geological Survey compared monthly nutrient concentrations and seasonal periphyton assemblage metrics of a site on Big Creek downstream of the CAFO, two Buffalo River control sites upstream of the confluence with Big Creek, and three Buffalo River test sites downstream of the confluence with Big Creek. In addition to identifying potential nutrient patterns and periphyton responses along a low-level nutrient exposure gradient, the study determined how nutrient contributions from Big Creek (and the CAFO) are affecting ecological conditions and consequent ecosystem services in the Buffalo River. Nutrient and periphyton data exhibited more temporal than spatial variability. Nutrient concentrations were generally highest of all sites at the Big Creek site. Concentrations at the five sites on the Buffalo River were typically low (near laboratory reporting limits), and concentrations at the three test sites rarely exceeded those of the two control sites. An index developed with three ecologically relevant periphyton metrics (oligotrophic taxa and Homoeothrix percent relative abundance and mesotrophic diatoms percent taxa richness) suggested that nutrient uptake at sites downstream of the Big Creek-Buffalo River confluence resulted in subtle shifts in downstream periphyton assemblages. The periphyton index of biological integrity at control sites was slightly and generally more favorable compared to test sites. Even so, when periphyton data were considered in conjunction with both hydrology and water-quality data, the negative consequences of antecedent high flows and associated scouring exceeded the potential positive effects that low-level nutrients had on algal productivity. These findings emphasize the importance of comparing biological and chemical data across extended temporal scales, particularly when working with low-level nutrient gradients.
+C1 [Justus, Billy G.; Driver, Lucas J.] US Geol Survey, Lower Mississippi Gulf Water Sci Ctr, 401 Hardin Rd, Little Rock, AR 72211 USA.
+   [Burge, David R. L.] Univ Minnesota, Water Resources Sci Grad Program, St Paul, MN 55108 USA.
+C3 United States Department of the Interior; United States Geological
+   Survey; University of Minnesota System; University of Minnesota Twin
+   Cities
+RP Justus, BG （連絡著者）、US Geol Survey, Lower Mississippi Gulf Water Sci Ctr, 401 Hardin Rd, Little Rock, AR 72211 USA.
+EM bjustus@usgs.gov; ldriver@usgs.gov; dburge@smm.org
+PD FEB
+PY 2021
+VL 121
+AR 107150
+DI 10.1016/j.ecolind.2020.107150
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Aspin, T
+   House, A
+   Martin, A
+   White, J
+AF Aspin, Thomas
+   House, Andy
+   Martin, Alex
+   White, James
+TI Reservoir trophic state confounds flow-ecology relationships in
+   regulated streams
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Reservoirs; Macroinvertebrate; Environmental flows; Eutrophication;
+   Nutrients; Algae
+ID WATER-QUALITY; MACROINVERTEBRATE COMMUNITIES; RIVER; DOWNSTREAM;
+   MANAGEMENT; RESPONSES; EUTROPHICATION; SCIENCE; REGIMES; INDEXES
+AB Cultural eutrophication and river regulation have been identified as two of the most pressing threats to global freshwater biodiversity. However, we know little about their combined ecological effects, raising questions over biomonitoring practices that typically consider such stressors in isolation. To address this inconsistency, we examined a decade-long dataset of macroinvertebrate samples and environmental data collected downstream of three reservoirs spanning a broad gradient of trophic states, from mesotrophic to hypereutrophic. We analysed the responses of routine macroinvertebrate biomonitoring indices and community composition to antecedent flow, temperature and water quality, including parameters associated with eutrophication (total phosphorous, nitrate, nitrite, ammonia, chlorophyll a). Multi-model comparisons of linear regressor combinations, variation partitioning and distance-based redundancy analyses all revealed shifts in the relative significance of flow and water quality predictors across the trophic state gradient. At the mesotrophic site biomonitoring indices and community composition were most sensitive to seasonal flow variability- particularly high-flow conditions- whereas in the hypereutrophic system stronger associations with nutrient concentrations emerged, notably nitrite and nitrate. Patterns at the eutrophic site were broadly intermediate between these, with significant biotic responses to antecedent flows mediated by water quality. Based on these results we suggest that nutrient regimes should be regarded as an integral component of environmental flows science. We therefore call on practitioners to look beyond the stressor-specific indices widely used to assess ecological status in rivers to consider the interactive effects of flow and water quality. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Aspin, Thomas; House, Andy; Martin, Alex] Wessex Water, Bath BA2 7WW, Avon, England.
+   [White, James] Cranfield Univ, River Restorat Ctr, Cranfield MK43 0AL, Beds, England.
+C3 Cranfield University
+RP Aspin, T （連絡著者）、Wessex Water, Bath BA2 7WW, Avon, England.
+EM thomas.aspin@wessexwater.co.uk
+PD DEC 15
+PY 2020
+VL 748
+AR 141304
+DI 10.1016/j.scitotenv.2020.141304
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Fu, H
+   Yuan, GX
+   Ozkan, K
+   Johansson, LS
+   Sondergaard, M
+   Lauridsen, TL
+   Jeppesen, E
+AF Fu, Hui
+   Yuan, Guixiang
+   Ozkan, Korhan
+   Johansson, Liselotte Sander
+   Sondergaard, Martin
+   Lauridsen, Torben L.
+   Jeppesen, Erik
+TI Seasonal and long-term trends in the spatial heterogeneity of lake
+   phytoplankton communities over two decades of restoration and climate
+   change
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Beta diversity; Spatial homogenisation; Nutrient loading; Seasonality;
+   Homogenisation
+ID ENVIRONMENTAL HETEROGENEITY; BETA DIVERSITY; NESTEDNESS COMPONENTS;
+   RE-OLIGOTROPHICATION; SHALLOW LAKE; PHOSPHORUS; HOMOGENIZATION;
+   VARIABILITY; RESPONSES; DYNAMICS
+AB World-wide, reducing the external nutrient loading to lakes has been the primary priority of lake management in the restoration of eutrophic lakes over the past decades, and as expected this has resulted in an increase in the local environmental heterogeneity, and thus biotic heterogeneity, within lakes. However, little is known about how the regional spatial heterogeneity of lake biotic communities changes with restoration across a landscape. Using a long-term monitoring dataset from 20 Danish lakes, we elucidated the seasonal and long-term trends in the spatial heterogeneity of climate, local abiotic variables and phytoplankton communities over two decades of restoration and climate change at landscape level. We found significant seasonality in the spatial heterogeneity of most climatic and local drivers as well as in the total beta diversity (Sorensen coefficient) and its turnover components (Simpson coefficient) of phytoplankton communities among the lakes. The seasonality tended to be less marked in deep than in shallow lakes. We found significant spatial homogenisation of most local drivers (except for alkalinity) and phytoplankton communities after two decades of restoration and that turnover dominated the temporal responses of the total beta diversity of phytoplankton communities. Path analyses showed that the homogenisation of phytoplankton communities was mainly due to a decrease in spatial heterogeneity of total phosphorus and Schmidt stability in shallow lakes and to a decrease in spatial total phosphorus and total nitrogen heterogeneity in deep lakes. However, albeit weakly, the spatial heterogeneity of the phytoplankton communities was affected indirectly by climatic warming in both shallow and deep lakes and directly by wind speed in shallow lakes. We conclude that restoration of eutrophic lakes may lead to an increase in the local heterogeneity of phytoplankton communities at lake scale and an increase in homogeneity at landscape scale. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Fu, Hui; Yuan, Guixiang] Hunan Agr Univ, Dept Ecol, Coll Resources & Environm, Hunan Prov Key Lab Rural Ecosyst Hlth Dongting La, Changsha 410128, Peoples R China.
+   [Ozkan, Korhan] Middle East Tech Univ, Inst Marine Sci, Mersin, Turkey.
+   [Johansson, Liselotte Sander; Sondergaard, Martin; Lauridsen, Torben L.; Jeppesen, Erik] Aarhus Univ, Dept Biosci, Vejlsovej 25, DK-8600 Silkeborg, Denmark.
+   [Sondergaard, Martin; Lauridsen, Torben L.; Jeppesen, Erik] Univ Chinese Acad Sci, Sino Danish Ctr Educ & Res SDC, Beijing, Peoples R China.
+   [Jeppesen, Erik] Middle East Tech Univ, Dept Biol Sci, Ctr Ecosyst Res & Implementat, Limnol Lab, Ankara, Turkey.
+C3 Hunan Agricultural University; Middle East Technical University; Aarhus
+   University; Chinese Academy of Sciences; University of Chinese Academy
+   of Sciences, CAS; Middle East Technical University
+RP Fu, H （連絡著者）、Hunan Agr Univ, Dept Ecol, Coll Resources & Environm, Hunan Prov Key Lab Rural Ecosyst Hlth Dongting La, Changsha 410128, Peoples R China.
+EM huifu367@163.com
+PD DEC 15
+PY 2020
+VL 748
+AR 141106
+DI 10.1016/j.scitotenv.2020.141106
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Fernandez, R
+   Alcocer, J
+   Oseguera, LA
+AF Fernandez, Rocio
+   Alcocer, Javier
+   Oseguera, Luis A.
+TI Regional Pelagic Rotifer Biodiversity in a Tropical Karst Lake District
+SO DIVERSITY-BASEL
+DT Article
+DE species richness; abundance; biomass; trophic status; zooplankton;
+   Montebello; Chiapas; Mexico
+ID FRESH-WATER ZOOPLANKTON; SEASONAL-VARIATIONS; PRIMARY PRODUCTIVITY;
+   PLANKTONIC ROTIFERS; SPECIES RICHNESS; DIVERSITY; MEXICO; STATE;
+   ABUNDANCE; BIOMASS
+AB The species richness, composition, abundance, and biomass of pelagic rotifers were determined in 17 karst lakes of the "Lagunas de Montebello" National Park, Chiapas, Mexico. The species richness of the region (21 species) and single lakes (1-12 species) was smaller than that of other Mexican, tropical, and temperate lakes. It is worth noting the high dissimilarity in species composition-about half (52%) of the species were observed in only 1-3 lakes. A total of eight rotifer families, all from the Monogononta subclass, were recorded. Keratella americana was the species with the highest occurrence (13 lakes), followed by Ptygura sp. (8 lakes). The abundance (0 to 536 ind L-1) and biomass (0 to 21 mu g L-1) of rotifers were low. The highest values of species richness, abundance, and biomass were found in eutrophic lakes, and the lowest in oligotrophic lakes. The low values of rotifer biodiversity, abundance, and biomass in the Montebello lakes are probably the product of the interaction of different factors-such as environmental homogeneity (all water bodies are karst lakes), the low availability of "good-quality" food, and predation by cyclopoid copepods in the eutrophic lakes, and the low availability of food, and competitive interference by calanoid copepods and cladocerans in the oligotrophic lakes.
+C1 [Fernandez, Rocio; Alcocer, Javier; Oseguera, Luis A.] Univ Nacl Autonoma Mexico, FES Iztacala, Grp Invest Limnol Trop, Av Barrios 1, Tlalnepantla 54090, Estado De Mexic, Mexico.
+C3 Universidad Nacional Autonoma de Mexico
+RP Alcocer, J （連絡著者）、Univ Nacl Autonoma Mexico, FES Iztacala, Grp Invest Limnol Trop, Av Barrios 1, Tlalnepantla 54090, Estado De Mexic, Mexico.
+EM biol.fernandez@gmail.com; jalcocer@unam.mx; loseguera@unam.mx
+PD DEC
+PY 2020
+VL 12
+IS 12
+AR 454
+DI 10.3390/d12120454
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Gutierrez, MF
+   Simoes, NR
+   Frau, D
+   Saigo, M
+   Licursi, M
+AF Florencia Gutierrez, Maria
+   Simoes, Nadson R.
+   Frau, Diego
+   Saigo, Miguel
+   Licursi, Magdalena
+TI Responses of stream zooplankton diversity metrics to eutrophication and
+   temporal environmental variability in agricultural catchments
+SO ENVIRONMENTAL MONITORING AND ASSESSMENT
+DT Article
+DE Freshwater; Functional traits; Land use; Microcrustacean; Rotifers;
+   Species richness
+AB Eutrophication of rivers and streams in agricultural lands is one of the main threats for biodiversity and ecosystem functions. This study was focused on seven subtropical streams where agriculture is the predominant land use. We tested the hypothesis that (i) eutrophication causes a decrease in taxonomic and functional diversity of zooplankton, leading to potential consequences for the ecosystem integrity. Furthermore, given that the temporal variability in the environmental conditions of each stream may influence the species sorting mechanisms, we also hypothesized that (ii) streams with higher temporal environmental variability have greater taxonomic and functional alpha (alpha) and temporal beta (beta (t)) diversity measures regardless of the trophic state. Thus, we characterized the streams according to their trophic state and analyzed the zooplankton composition, alpha and beta (t) by using taxonomic and functional perspectives. We found differences in the zooplankton composition between mesotrophic and eutrophic streams. However, eutrophic streams supported similar taxonomic and functional alpha diversity and similar taxonomic beta (t) diversity to mesotrophic ones. These results were mainly explained by the occurrence of rare species occupying different temporal niches in eutrophic systems. On the contrary, functional beta (t) diversity was lower in the eutrophic streams, being nestedness the ecological mechanisms underlying the variability in the zooplankton functional groups. Streams with higher temporal environmental variability supported greater alpha taxonomic diversity. However, the beta (t) diversity metrics showed no correlation with the environmental variability, suggesting that the environmental filters of the studied systems were the overriding determinants of species turnover. Our study suggests that both taxonomic and functional perspectives should be considered to improve our knowledge on the biotic responses to environmental changes. Also, among all metrics analyzed on the zooplankton community, functional beta (t) diversity was the most sensitive indicator of the eutrophication impact.
+C1 [Florencia Gutierrez, Maria; Frau, Diego; Saigo, Miguel; Licursi, Magdalena] CONICET UNL, Inst Nacl Limnol, RA-3000 Santa Fe, Argentina.
+   [Florencia Gutierrez, Maria] Univ Nacl Litoral, Fac Bioquim & Ciencias Biol, Escuela Super Sanidad Dr Ramon Carrillo, RA-3000 Santa Fe, Argentina.
+   [Simoes, Nadson R.] Ctr Formacao Ciencias Agroflorestais, Rod Ilheus Vitoria da Conquista,Km 39,BR 415, BR-45613204 Itabuna, BA, Brazil.
+   [Saigo, Miguel] Univ Nacl Litoral, Fac Humanidades & Ciencias, RA-3000 Santa Fe, Argentina.
+C3 Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);
+   National University of the Littoral; National University of the
+   Littoral; National University of the Littoral
+RP Gutierrez, MF （連絡著者）、Univ Nacl Litoral, Fac Bioquim & Ciencias Biol, Escuela Super Sanidad Dr Ramon Carrillo, RA-3000 Santa Fe, Argentina.
+EM fgutierrez@inali.unl.edu.ar
+PD DEC
+PY 2020
+VL 192
+IS 12
+AR 792
+DI 10.1007/s10661-020-08766-5
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Pearce, NJT
+   Thomas, KE
+   Lavoie, I
+   Chambers, PA
+   Yates, AG
+AF Pearce, Nolan J. T.
+   Thomas, Kathryn E.
+   Lavoie, Isabelle
+   Chambers, Patricia A.
+   Yates, Adam G.
+TI Episodic loadings of phosphorus influence growth and composition of
+   benthic algae communities in artificial stream mesocosms
+SO WATER RESEARCH
+DT Article
+DE Algae; Diatoms; Eutrophication; Phosphorus; Loading pattern
+ID TEMPORAL VARIABILITY; PERIPHYTON BIOMASS; WATER-QUALITY; FRESH-WATER;
+   LAND-USE; DYNAMICS; RIVERS; EUTROPHICATION; THRESHOLDS; NITROGEN
+AB Phosphorus (P) is an essential macronutrient for algal communities, but in excess can exacerbate stream eutrophication. However, P loadings to streams vary temporally from continuous to episodic as a result of inputs from point and non-point sources, respectively. P loading pattern can thus alter the temporal availability of P and may influence effects of P enrichment on algal communities. We assessed how P loading pattern influences algal biomass and composition by conducting a 29-day P enrichment experiment in nine artificial streams exposed to either: (1) continuous P enrichment; (2) episodic P enrichment, or; (3) no P enrichment. P enrichment increased algal biomass accrual, but peak biomass did not differ between continuously and episodically enriched treatments. Maximum absolute growth rates were also comparable between P enriched treatments. However, episodic P additions sustained elevated rates of biomass accrual, whereas absolute growth rates in the continuously enriched communities declined towards the end of the experiment. P enrichment resulted in comparable increases in relative abundance of chlorophytes and decreased proportions of bacillariophytes and charophytes in algal communities for continuously and episodically enriched treatments. However, composition of bacillariophyte (diatom) assemblages differed significantly among all P enrichment treatments in accordance with species autecological attributes for P. Our results demonstrate that episodic and continuous P enrichment may augment algal biomass similarly. Yet, P loading pattern regulated the composition of algal communities. Thus, remedial management strategies for the control of nuisance algae production may require focus on the predominant source of P to streams. Finally, species specific responses of diatom assemblages to P enrichment and associated loading patterns suggests this taxonomic group may have potential as diagnostic indicators for identifying the presence of key nutrient sources associated with eutrophication of stream ecosystems. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Pearce, Nolan J. T.; Yates, Adam G.] Univ Western Ontario, 1156 Richmond St, London, ON, Canada.
+   [Pearce, Nolan J. T.; Yates, Adam G.] Canadian Rivers Inst, 1156 Richmond St, London, ON, Canada.
+   [Thomas, Kathryn E.; Chambers, Patricia A.] Environm & Climate Change Canada, Canada Ctr Inland Waters, 867 Lakeshore Rd, Burlington, ON, Canada.
+   [Lavoie, Isabelle] Inst Natl Rech Sci, Ctr Eau Terre Environm, 490 Rue Couronne, Quebec City, PQ, Canada.
+C3 Western University (University of Western Ontario); Environment &
+   Climate Change Canada; Canada Centre for Inland Waters (CCIW);
+   University of Quebec; Institut national de la recherche scientifique
+   (INRS)
+RP Pearce, NJT （連絡著者）、Univ Western Ontario, 1156 Richmond St, London, ON, Canada.; Pearce, NJT （連絡著者）、Canadian Rivers Inst, 1156 Richmond St, London, ON, Canada.
+EM npearce7@uwo.ca
+PD OCT 15
+PY 2020
+VL 185
+AR 116139
+DI 10.1016/j.watres.2020.116139
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+ER
+
+PT J
+AU Lindholm, M
+   Alahuhta, J
+   Heino, J
+   Toivonen, H
+AF Lindholm, Marja
+   Alahuhta, Janne
+   Heino, Jani
+   Toivonen, Heikki
+TI Temporal beta diversity of lake plants is determined by concomitant
+   changes in environmental factors across decades
+SO JOURNAL OF ECOLOGY
+DT Article
+DE anthropogenic impacts; aquatic macrophytes; beta diversity; lakes; land
+   use; TBI; temporal beta diversity; temporal patterns
+ID FRESH-WATER PLANT; BIODIVERSITY CHANGE; AQUATIC MACROPHYTES; SPECIES
+   TURNOVER; CLIMATE-CHANGE; LAND-USE; VEGETATION; TRENDS; FUTURE; LIMITS
+AB To comprehensively understand the impact of anthropogenic activities on biodiversity, we must understand how biodiversity has changed over time and what are the underlying processes. A growing body of evidence has shown that beta diversity reveals more about temporal changes in biodiversity compared with alpha diversity. Temporal beta diversity indicates, for example, degrees of change in species composition at single locations through time. We examined whether freshwater plant communities showed different patterns in temporal beta diversity in relation to concomitant changes in environmental conditions across decades. To do this, we used presence-absence data of lake plants for five decades (1940s-2010s) from southern Finland and calculated temporal beta diversity indices (TBI) for each lake between pairs of decades to the whole community, hydrophytes and helophytes. To get insights into possible processes behind the observed trends, we decomposed TBIs into beta diversity contributed by either temporal losses or temporal gains of species. We related TBIs and their loss and gain components to lake landscape position and changes in environmental variables. Based on comparisons of TBIs between the survey decade pairs, the temporal change in aquatic plant communities was modest through decades. Hydrophyte assemblages have changed more than helophyte assemblages. The main changes in temporal beta diversity occurred from the 1940s to the 1970s, when the gain of new species was the dominant process in the lakes throughout the landscape. Following that period, there was only modest changes, but from the 2000s to the 2010s, the dominant process was the loss of species. Temporal changes in environmental conditions played a key role in explaining the TBI. Our results showed that relying on only two survey points in time can result in limited knowledge of the ecological phenomenon under study and, for example, an exceptional year in terms of weather conditions can hinder detecting overall long-term trends in compositional changes. Therefore, future studies should try to combine data from several decades to overcome the typical limitations of temporal information.
+C1 [Lindholm, Marja; Alahuhta, Janne] Univ Oulu, Geog Res Unit, Oulu, Finland.
+   [Heino, Jani] Finnish Environm Inst, Freshwater Ctr, Oulu, Finland.
+   [Toivonen, Heikki] Finnish Environm Inst, Biodivers Ctr, Helsinki, Finland.
+C3 University of Oulu; Finnish Environment Institute; Finnish Environment
+   Institute
+RP Lindholm, M （連絡著者）、Univ Oulu, Geog Res Unit, Oulu, Finland.
+EM marja.lindholm@oulu.fi
+PD FEB
+PY 2021
+VL 109
+IS 2
+BP 819
+EP 832
+DI 10.1111/1365-2745.13508
+EA OCT 2020
+SC Plant Sciences; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Kolli, MK
+   Opp, C
+   Karthe, D
+   Groll, M
+AF Kolli, Meena Kumari
+   Opp, Christian
+   Karthe, Daniel
+   Groll, Michael
+TI Mapping of Major Land-Use Changes in the Kolleru Lake Freshwater
+   Ecosystem by Using Landsat Satellite Images in Google Earth Engine
+SO WATER
+DT Article
+DE fishponds; Kolleru Lake; Google earth engine; eutrophication; land-use
+   change
+ID SHALLOW LAKES; HEAVY-METALS; RESTORATION; DYNAMICS; WETLAND;
+   EUTROPHICATION; MANAGEMENT; VEGETATION; MARINE; AQUACULTURE
+AB India's largest freshwater ecosystem of the Kolleru Lake has experienced severe threats by land-use changes, including the construction of illegal fishponds around the lake area over the past five decades. Despite efforts to protect and restore the lake and its riparian zones, environmental pressures have increased over time. The present study provides a synthesis of human activities through major land-use changes around Kolleru Lake both before and after restoration measures. For this purpose, archives of all Landsat imageries from the last three decades were used to detect land cover changes. Using the Google Earth Engine cloud platform, three different land-use scenarios were classified for the year before restoration (1999), for 2008 immediately after the restoration, and for 2018, i.e., the current situation of the lake one decade afterward. Additionally, the NDVI (Normalized Difference Vegetation Index) and NDWI (Normalized Difference Water Index) indices were used to identify land cover dynamics. The results show that the restoration was successful; consequently, after a decade, the lake was transformed into the previous state of restoration (i.e., 1999 situation). In 1999, 29.7% of the Kolleru Lake ecosystem was occupied by fishponds, and, after a decade of sustainable restoration, 27.7% of the area was fishponds, almost reaching the extent of the 1999 situation. On the one hand, aquaculture is one of the most promising sources of income, but there is also limited awareness of its negative environmental impacts among local residents. On the other hand, political commitment to protect the lake is weak, and integrated approaches considering all stakeholders are lacking. Nevertheless, alterations of land and water use, increasing nutrient concentrations, and sediment inputs from the lake basin have reached a level at which they threaten the biodiversity and functionality of India's largest wetland ecosystem to the degree that immediate action is necessary to prevent irreversible degradation.
+C1 [Kolli, Meena Kumari; Opp, Christian; Groll, Michael] Philipps Univ Marburg, Fac Geog, Deutschhausstr 10, D-35037 Marburg, Germany.
+   [Karthe, Daniel] German Mongolian Inst Resources & Technol, Environm Engn Sect, Nalaikh 12800, Ulaanbaatar, Mongolia.
+   [Karthe, Daniel] United Nations Univ, Inst Integrated Management Mat Fluxes & Resources, D-01067 Dresden, Germany.
+C3 Philipps University Marburg
+RP Kolli, MK; Opp, C （連絡著者）、Philipps Univ Marburg, Fac Geog, Deutschhausstr 10, D-35037 Marburg, Germany.
+EM meenu.rgukt@gmail.com; opp@staff.uni-marburg.de; karthe@gmit.edu.mn;
+   michael.groll@staff.uni-marburg.de
+PD SEP
+PY 2020
+VL 12
+IS 9
+AR 2493
+DI 10.3390/w12092493
+SC Environmental Sciences & Ecology; Water Resources
+ER
+
+PT J
+AU Costa, APT
+   Crossetti, LO
+   Hartz, SM
+   Becker, FG
+   Hepp, LU
+   Bohnenberger, JE
+   Lima, MS
+   Guimaraes, T
+   Schneck, F
+AF Tavares Costa, Ana Paula
+   Crossetti, Luciane Oliveira
+   Hartz, Sandra Maria
+   Becker, Fernando Gertum
+   Hepp, Luiz Ubiratan
+   Bohnenberger, Juliana Elisa
+   Lima, Marla Sonaira
+   Guimaraes, Tais
+   Schneck, Fabiana
+TI Land cover is the main correlate of phytoplankton beta diversity in
+   subtropical coastal shallow lakes
+SO AQUATIC ECOLOGY
+DT Article
+DE Lentic environment; Microalgae; Productivity; Landscape; Dissimilarity
+   measures
+ID FRESH-WATER BIODIVERSITY; ENVIRONMENTAL HETEROGENEITY; SPECIES RICHNESS;
+   COMMUNITY; HOMOGENIZATION; METACOMMUNITY; DISPERSAL; PATTERNS; DRIVEN;
+   ALPHA
+AB Environmental heterogeneity and productivity are factors driving beta diversity of freshwater communities. Further, characteristics as spatial extent and connectivity, as well as land use and cover, can determine local biodiversity patterns. We evaluated the correlates of within-lake beta diversity of phytoplankton communities in 25 coastal shallow lakes in southern Brazil. We hypothesize that within-lake beta diversity is positively related to environmental heterogeneity, productivity, spatial extent and connectivity. We also searched for correlates between beta diversity and land cover, once the studied lakes are mostly surrounded by natural landscapes. We measured beta diversity using four dissimilarity coefficients that provide a gradient of emphasis on compositional and abundance changes. We found that beta diversity differed among lakes, indicating changes in both species' composition and abundance, but how it correlated with predictors differed depending on how beta diversity was measured. Beta diversity based on changes in species incidence and in two measures of abundance (modified Gower based on log10 and log2) was positively related to percentage of wetland cover and negatively related to percentage of grassland. Further, environmental heterogeneity was related to abundance-based (modified Gower log2) beta diversity. Our hypotheses were partly corroborated, indicating that factors modulating beta diversity patterns are complex and not easy to detect. We show that phytoplankton beta diversity in shallow coastal lakes is promoted by factors acting at both local and landscape scales. Finally, we emphasize that investigating beta diversity patterns should thoughtfully consider the use of dissimilarity coefficients measuring both changes in species composition and abundance.
+C1 [Tavares Costa, Ana Paula; Schneck, Fabiana] Univ Fed Rio Grande FURG, Inst Ciencias Biol, Ave Italia,Km 8, BR-96203900 Rio Grande, RS, Brazil.
+   [Crossetti, Luciane Oliveira; Hartz, Sandra Maria; Becker, Fernando Gertum; Guimaraes, Tais] Univ Fed Rio Grande do Sul UFRGS, Inst Biociencias, Dept Ecol, Ave Bento Goncalves 9500, BR-91501970 Porto Alegre, RS, Brazil.
+   [Hepp, Luiz Ubiratan] Univ Reg Integrada Alto Uruguai & Missoes URI, Dept Ciencias Biol, BR-99709910 Erechim, RS, Brazil.
+   [Bohnenberger, Juliana Elisa; Lima, Marla Sonaira] Univ Fed Rio Grande do Sul UFRGS, Inst Pesquisas Hidraul, Ave Bento Goncalves 9500, BR-91501970 Porto Alegre, RS, Brazil.
+C3 Universidade Federal do Rio Grande; Universidade Federal do Rio Grande
+   do Sul; Universidade Regional Integrada do Alto Uruguai e das Missoes
+   (URI); Universidade Federal do Rio Grande do Sul
+RP Costa, APT （連絡著者）、Univ Fed Rio Grande FURG, Inst Ciencias Biol, Ave Italia,Km 8, BR-96203900 Rio Grande, RS, Brazil.
+EM anapaulatavarescosta@gmail.com
+PD DEC
+PY 2020
+VL 54
+IS 4
+BP 1015
+EP 1028
+DI 10.1007/s10452-020-09790-w
+EA AUG 2020
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+ER
+
+PT J
+AU Burgazzi, G
+   Bolpagni, R
+   Laini, A
+   Racchetti, E
+   Viaroli, P
+AF Burgazzi, Gemma
+   Bolpagni, Rossano
+   Laini, Alex
+   Racchetti, Erica
+   Viaroli, Pierluigi
+TI Algal biomass and macroinvertebrate dynamics in intermittent braided
+   rivers: new perspectives from instream pools
+SO RIVER RESEARCH AND APPLICATIONS
+DT Article
+DE algal biomass; instream pools; intermittent braided rivers;
+   macroinvertebrates; northern Italy
+ID INVERTEBRATE COMMUNITIES; STREAM; RESILIENCE; PERIPHYTON; DROUGHT;
+   BIODIVERSITY; ASSEMBLAGES; RESISTANCE; DIVERSITY; HABITAT
+AB Perennial streams and rivers are now largely subjected to fragmentation and lentification processes due to flow reduction, which creates a number of lateral habitats with different degrees of hydrological connectivity. These habitats have environmental conditions and biotic interactions that can be far divergent than those of main channel habitats. However, they remain largely unexplored, especially in temperate regions. We here focused on studying algal dynamics and their interactions with aquatic invertebrates across mesohabitats (i.e., main channel, secondary channel, pools) in streambeds under both normal and low flow conditions. We selected four watercourses in the Po Plain (northern Italy), where we detected the main dynamics and drivers of algal and invertebrate communities by applying mixed effect modelling. A clear algal growth trend was detected in summer, and was similar for all mesohabitats, but with temporal decoupling and doubled values in pools. Mesohabitat and time were central factors in driving benthic algae dynamics that, in turn, negatively affected aquatic invertebrates. Hydrology and algae seemed to have a mutually reinforcing effect on macroinvertebrates by reducing almost all the investigated metrics. By considering future projections on further regime shifts in lotic systems, loss of biodiversity driven by algal blooms could become a major concern, and also for potential cascade impacts on other biotic compartments of river networks.
+C1 [Burgazzi, Gemma; Bolpagni, Rossano; Laini, Alex; Racchetti, Erica; Viaroli, Pierluigi] Univ Parma, Dept Chem Life Sci & Environm Sustainabil, Parco Area Sci 33-A, I-43124 Parma, Italy.
+C3 University of Parma
+RP Bolpagni, R （連絡著者）、Univ Parma, Dept Chem Life Sci & Environm Sustainabil, Parco Area Sci 33-A, I-43124 Parma, Italy.
+EM rossano.bolpagni@unipr.it
+PD OCT
+PY 2020
+VL 36
+IS 8
+BP 1682
+EP 1689
+DI 10.1002/rra.3675
+EA JUL 2020
+SC Environmental Sciences & Ecology; Water Resources
+ER
+
+PT J
+AU Li, JL
+   Zuo, QT
+AF Li, Jialu
+   Zuo, Qiting
+TI Forms of Nitrogen and Phosphorus in Suspended Solids: A Case Study of
+   Lihu Lake, China
+SO SUSTAINABILITY
+DT Article
+DE suspended solids; nitrogen; phosphorus; form analysis; Lihu Lake
+ID ORGANIC PHOSPHORUS; SHALLOW LAKES; EUTROPHIC LAKE; WATER-QUALITY; LOWER
+   REACHES; SEDIMENTS; RIVER; FRACTIONS; TAIHU; AVAILABILITY
+AB Suspended solids are an important part of lake ecosystems, and their nitrogen and phosphorus contents have a significant effect on water quality. However, information on nitrogen and phosphorus forms in suspended solids remains limited. Therefore, a case study was conducted in Lihu Lake (China), a lake with characteristically high amounts of suspended solids. Nitrogen and phosphorus speciation in suspended solids was analyzed through a sequential extraction method. We also evaluated the sources of various forms of nitrogen and phosphorus and their different effects on eutrophication. The total nitrogen (TN) content was 758.9-3098.1 mg/kg. Moreover, the proportions of various N forms in the suspended solids of the study areas were ranked as follows: Hydrolyzable nitrogen (HN) > residual nitrogen (RN) > exchangeable nitrogen (EN). Total phosphorus (TP) ranged from 294.8 to 1066.4 mg/kg, and 58.6% of this TP was inorganic phosphorus (IP). In turn, calcium (Ca)-bound inorganic phosphorus (Ca-Pi) was the main component of IP. The correlation between various nitrogen and phosphorus forms showed that there were different sources of suspended nitrogen and phosphorus throughout Lihu Lake. Correlation analysis of water quality indices and comparative analysis with surface sediments showed that in Lihu Lake, the dissolved nitrogen and phosphorus contents in water were influenced by sediment through diffusion, while particle phosphorus content in water was influenced by suspended solids through adsorption; however, due to the higher phosphorus contents in suspended solids, we should pay more attention to the impact of suspended solids.
+C1 [Li, Jialu; Zuo, Qiting] Zhengzhou Univ, Sch Water Conservancy Engn, Zhengzhou 450001, Peoples R China.
+   [Li, Jialu; Zuo, Qiting] Zhengzhou Key Lab Water Resource & Water Environm, Zhengzhou 450001, Peoples R China.
+C3 Zhengzhou University
+RP Zuo, QT （連絡著者）、Zhengzhou Univ, Sch Water Conservancy Engn, Zhengzhou 450001, Peoples R China.; Zuo, QT （連絡著者）、Zhengzhou Key Lab Water Resource & Water Environm, Zhengzhou 450001, Peoples R China.
+EM jialuli1227@163.com; zuoqt@zzu.edu.cn
+PD JUN
+PY 2020
+VL 12
+IS 12
+AR 5026
+DI 10.3390/su12125026
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Huttunen, KL
+   Muotka, T
+   Karjalainen, SM
+   Laamanen, T
+   Aroviita, J
+AF Huttunen, Kaisa-Leena
+   Muotka, Timo
+   Karjalainen, Satu Maaria
+   Laamanen, Tiina
+   Aroviita, Jukka
+TI Excess of nitrogen reduces temporal variability of stream diatom
+   assemblages
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Anthropogenic stress; Beta diversity; Community homogenization;
+   Eutrophication; Intra-annual; Temporal variability
+ID BENTHIC MACROINVERTEBRATE ASSEMBLAGES; BETA-DIVERSITY; NUTRIENT
+   ENRICHMENT; SPECIES RICHNESS; FRESH-WATER; TAXONOMIC COMPLETENESS;
+   LAND-USE; PHOSPHORUS; EUTROPHICATION; HETEROGENEITY
+AB Nutrient enrichment degrades water quality and threatens aquatic biota. However, our knowledge on (dis)similarities in temporal patterns of biota among sites of varying level of nutrient stress is limited. We addressed this gap by assessing temporal (among seasons) variation in algal biomass, species diversity and composition of diatom assemblages in three streams that differ in nutrient stress, but are otherwise similar and share the same regional species pool. We monitored three riffle sections in each stream bi-weekly from May to October in 2014. Temporal variation in water chemistry and other environmental variables was mainly synchronous among riffles within streams and often also among streams, indicating shared environmental forcing through time. We found significant differences in diatom assemblage composition among streams and, albeit less so, also among riffles within streams. Diatom assemblages in the two nutrient-enriched streams were more similar to each other than to those in the nutrient-poor stream. Taxa richness did not differ consistently among the streams, and did not vary synchronously at any spatial scale. Temporal variation in diatom assemblage composition decreased with increasing DIN:TotP ratio, likely via a negative effect on sensitive taxa while maintaining favorable conditions for certain tolerant taxa, irrespective of season. This relationship weakened but remained significant even after controlling for stochastic effects, suggesting deterministic mechanisms between nutrient levels and diatom assemblage stability. After controlling for stochastic effects temporal variability was best explained by DIN suggesting that excess of nitrogen reduces temporal variability(intra-annual beta diversity) of diatom assemblages. The high temporal variation, and especially the lack of temporal synchrony at the within streams scale, suggests that single sampling at a single site may be insufficient to reliably assess and monitor a complete stream water body. Our results also showed that measures including species identity outperform traditional diversity metrics in detecting nutrient stress in streams. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Huttunen, Kaisa-Leena; Muotka, Timo] Univ Oulu, Dept Ecol & Genet, POB 3000, FI-90014 Oulu, Finland.
+   [Muotka, Timo; Karjalainen, Satu Maaria; Laamanen, Tiina; Aroviita, Jukka] Finnish Environm Inst, Freshwater Ctr, POB 413, FI-90014 Oulu, Finland.
+C3 University of Oulu; Finnish Environment Institute
+RP Huttunen, KL （連絡著者）、Univ Oulu, Dept Ecol & Genet, POB 3000, FI-90014 Oulu, Finland.
+EM kaisa-leena.huttunen@oulu.fi
+PD APR 15
+PY 2020
+VL 713
+AR 136630
+DI 10.1016/j.scitotenv.2020.136630
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Lindholm, M
+   Alahuhta, J
+   Heino, J
+   Hjort, J
+   Toivonen, H
+AF Lindholm, Marja
+   Alahuhta, Janne
+   Heino, Jani
+   Hjort, Jan
+   Toivonen, Heikki
+TI Changes in the functional features of macrophyte communities and driving
+   factors across a 70-year period
+SO HYDROBIOLOGIA
+DT Article
+DE Anthropogenic impact; Aquatic plants; Functional diversity; Functional
+   homogenisation; Functional richness; Temporal patterns
+ID THEORETICAL HABITAT TEMPLETS; FRESH-WATER PLANT; UPPER RHONE RIVER;
+   AQUATIC MACROPHYTES; TRAIT COMPOSITION; SPECIES RICHNESS; LAND-USE;
+   BIOTIC HOMOGENIZATION; LANDSCAPE POSITION; DIVERSITY
+AB Functional homogenisation occurs across many areas and organism groups, thereby seriously affecting biodiversity loss and ecosystem functioning. In this study, we examined how functional features of aquatic macrophytes have changed during a 70-year period at community and species levels in a boreal lake district. At the community level, we examined if aquatic macrophyte communities showed different spatial patterns in functional composition and functional richness in relation to main environmental drivers between the time periods. We also observed each species in functional space to assess if species with certain sets of traits have become more common or rare in the 70-year study period. We found changes in the relationship between functional community composition and the environment. The aquatic macrophyte communities showed different patterns in functional composition between the two time periods, and the main environmental drivers for these changes were partly different. Temporal changes in functional richness were only partially linked to concomitant changes in the environment, while stable factors were more important. Species' functional traits were not associated with commonness or rarity patterns. Our findings revealed that functional homogenisation has not occurred across these boreal lakes, ranging from small oligotrophic forest lakes to larger lakes affected by human impacts.
+C1 [Lindholm, Marja; Alahuhta, Janne; Hjort, Jan] Univ Oulu, Geog Res Unit, POB 3000, Oulu 90014, Finland.
+   [Heino, Jani] Finnish Environm Inst, Freshwater Ctr, POB 413, Oulu 90570, Finland.
+C3 University of Oulu; Finnish Environment Institute
+RP Lindholm, M （連絡著者）、Univ Oulu, Geog Res Unit, POB 3000, Oulu 90014, Finland.
+EM marja.lindholm@oulu.fi
+PD OCT
+PY 2020
+VL 847
+IS 18
+SI SI
+BP 3811
+EP 3827
+DI 10.1007/s10750-019-04165-1
+EA JAN 2020
+SC Marine & Freshwater Biology
+ER
+
+PT J
+AU Ward, JL
+   Korn, V
+   Auxier, AN
+   Schoenfuss, HL
+AF Ward, J. L.
+   Korn, V
+   Auxier, A. N.
+   Schoenfuss, H. L.
+TI Temperature and Estrogen Alter Predator-Prey Interactions between Fish
+   Species
+SO INTEGRATIVE ORGANISMAL BIOLOGY
+DT Article
+ID MUMMICHOGS FUNDULUS-HETEROCLITUS; ROACH RUTILUS-RUTILUS; FRESH-WATER
+   FISH; FEEDING-BEHAVIOR; SEXUAL SELECTION; FATHEAD MINNOWS; ENVIRONMENTAL
+   ESTROGENS; LIFE STAGES; EXPOSURE; RESPONSES
+AB A variety of environmental estrogens are commonly detected in human-impacted waterways. Although much is known about the effects of these environmental estrogens on the reproductive physiology and behavior of individuals within species, comparatively less is known about how these compounds alter the outcomes of interactions between species. Furthermore, few studies have considered how the effects of contaminants are modulated by natural variation in abiotic factors, such as temperature. To help fill this knowledge gap, we conducted a factorial experiment to examine the independent and combined effects of estrone (E1) and temperature on the outcome of predator-prey interactions between two common North American freshwater fishes, fathead minnows (Pimephales promelas) and bluegill sunfish (Lepomis macrochirus). Larval fathead minnows and adult sunfish were exposed to either a low (mean +/- standard deviation, 90.1 +/- 18 ng/L; n = 16) or high (4146147 ng/L; n = 15) concentration of E1 or to a solvent control for 30 days at one of four natural seasonal temperatures (15 degrees C, 18 degrees C, 21 degrees C, and 24 degrees C) before predation trials were performed. Exposure to E1 was associated with a significant increase in larval predation mortality that was independent of temperature. Across all temperature treatments, approximately 74% of control minnows survived; this survivorship significantly exceeded that of minnows exposed to either concentration of E1 (49% and 53% for minnows exposed to the low and high concentrations, respectively). However, exposure to E1 also impaired the prey-capture success of sunfish, partially mitigating predation pressure on exposed minnows. Overall prey-capture success by sunfish showed an inverted U-shaped distribution with temperature, with maximal prey consumption occurring at 21 degrees C. This study illustrates the vulnerability of organismal interactions to estrogenic pollutants and highlights the need to include food web interactions in assessments of risk.
+C1 [Ward, J. L.; Auxier, A. N.] Ball State Univ, Dept Biol, 2111 W Riverside Ave, Muncie, IN 47306 USA.
+   [Korn, V; Schoenfuss, H. L.] St Cloud State Univ, Aquat Toxicol Lab, Dept Biol, 720 4th Ave South, St Cloud, MN 56301 USA.
+C3 Ball State University; Saint Cloud State University
+RP Ward, JL （連絡著者）、Ball State Univ, Dept Biol, 2111 W Riverside Ave, Muncie, IN 47306 USA.
+EM ward@bsu.edu
+PY 2020
+VL 2
+IS 1
+AR obaa008
+DI 10.1093/iob/obaa008
+SC Life Sciences & Biomedicine - Other Topics; Evolutionary Biology;
+   Zoology
+ER
+
+PT J
+AU Gonzalez-Trujillo, JD
+   Alonso-Moreno, YL
+AF Gonzalez-Trujillo, Juan David
+   Alonso-Moreno, Yenni Lizeth
+TI Habitat simplification changes temporal patterns of invertebrate beta
+   diversity in a high-Andean stream
+SO NEOTROPICAL BIODIVERSITY
+DT Article
+DE Hydrologic variability; channelization; rank abundance curve;
+   mesohabitat; habitat loss; Colombia
+ID MACROINVERTEBRATE COMMUNITIES; ENVIRONMENTAL HETEROGENEITY; RESPONSES;
+   REFUGIA; DISTURBANCE; ALPHA; BIODIVERSITY; ASSEMBLAGES; TEMPLET; TRAITS
+AB Several studies have revealed that beta-diversity patterns are tightly coupled to differences in habitat heterogeneity and the spatial distance among headwaters. However, addressing the relative role of these factors over time is yet to be done, particularly in those factors acting at the local scale. Here, we investigated the temporal responses of stream invertebrate communities to habitat simplification and flow variability in two stretches of a high-Andean stream: an undisturbed and a channelized stretch. Both stretches were sampled every month in two hydrologically different years: a "regular year" and a year under the influence of the La Nina phenomenon. Using four types of beta diversity (Jaccard, Percentage difference, Raup-Crick, and Gower), we tested two hypotheses: (H1) the temporal flow dynamics affect beta diversity, increasing its temporal variability. (H2) The effect of flow temporal dynamics would change because of the habitat simplification, being the temporal variability of beta diversity higher in the simplified (channelized) stretch. Contrarily to our expectations, we observed a significant mismatch between beta diversity metrics: while some indicated an increase, others indicated a decrease in the temporal variability. Nevertheless, taken together and interpreted in an ecological context, our results indicate that habitat simplification changes the temporal patterns of beta diversity. Specifically, our findings suggest that habitat simplification induces the functional homogenization of the community and diminishes the extent of change in community composition between sampling occasions. At the channelized stretch, we found that the community comprised species with adaptations to flow-related constraints primarily whose occurrence varied little among sampling occasions. These findings are relevant to Andean streams' bioassessment, as certain programs rely on taking a 'snapshot" to assess the ecosystem's health or the effect of an anthropogenic stressor. Our study suggests that this snapshot may be biased if both the habitat heterogeneity and the history of high-flow events are not explicitly considered.
+C1 [Gonzalez-Trujillo, Juan David; Alonso-Moreno, Yenni Lizeth] Univ Nacl Colombia, Dept Biol, Bogota, Colombia.
+C3 Universidad Nacional de Colombia
+RP Gonzalez-Trujillo, JD （連絡著者）、Univ Nacl Colombia, Dept Biol, Bogota, Colombia.
+EM jdgonzalezt@unal.edu.co
+PD JAN 1
+PY 2020
+VL 6
+IS 1
+BP 206
+EP 216
+DI 10.1080/23766808.2020.1859265
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Taylor, JM
+   Rodman, AR
+   Scott, JT
+AF Taylor, Jason M.
+   Rodman, Ashley R.
+   Scott, J. Thad
+TI Stream algal biomass response to experimental phosphorus and nitrogen
+   gradients: A case for dual nutrient management in agricultural
+   watersheds
+SO JOURNAL OF ENVIRONMENTAL QUALITY
+DT Article
+ID FRESH-WATER; N-2 FIXATION; LIMITATION; PERIPHYTON; EUTROPHICATION;
+   MARINE; PHYTOPLANKTON; ENVIRONMENTS; BIOFILMS; ECOLOGY
+AB Watershed managers generally focus on P reduction strategies to combat freshwater eutrophication despite evidence that N co-limits primary production. Our objective was to test the role of P in limiting stream periphyton biomass within the Buffalo River watershed in Arkansas by conducting a 31-d streamside mesocosm experiment. To represent potentially different starting states, cobbles were transplanted from two different tributary streams and initially exposed to a range of P (0, 0.012, 0.025, 0.05, 0.1, and 0.2 mg L-1 P) to assess benthic ash-free dry mass (AFDM) and chlorophyll-a (chl a) and responses during a P only enrichment period. Later, the experiment was continued under a N/P (10:1 molar ratio) enrichment gradient to examine colimitation. Mean AFDM was higher on Day 31 of the N+P enrichment compared with Day 17 of the P-only enrichment (p < .001). Overall differences in AFDM and chl a were observed between cobbles from different stream sites. Phosphorus enrichment stimulated benthic chl a biomass, but enrichment effects were greater when streams were enriched with N+P (p < .001). Chlorophyll-a increased (4.4-57.9 mg m(-2)) with increasing P concentrations (p < .001) after P enrichment but was threefold greater after N+P enrichment, increasing from 13.3 to 171.1 mg m(-2) across the enrichment gradient. Results support the need to consider both N and P limitation in freshwater systems and demonstrate that potential increases in nutrient concentrations may influence accumulation of algae on cobble substrates from the Buffalo River watershed.
+C1 [Taylor, Jason M.] USDA ARS, Water Qual & Ecol Res Unit, Natl Sedimentat Lab, 598 McElroy Dr, Oxford, MS 38655 USA.
+   [Rodman, Ashley R.] Univ Arkansas, Crop Soil & Environm Sci Dept, Fayetteville, AR 72701 USA.
+   [Scott, J. Thad] Ctr Reservoir & Aquat Syst Res, Dept Biol, One Bear Pl 97388, Waco, TX 76798 USA.
+   [Rodman, Ashley R.] Natl Pk Serv, 402 N Walnut,Suite 136, Harrison, AR 72601 USA.
+C3 United States Department of Agriculture (USDA); University of Arkansas
+   System; University of Arkansas Fayetteville; United States Department of
+   the Interior
+RP Taylor, JM （連絡著者）、USDA ARS, Water Qual & Ecol Res Unit, Natl Sedimentat Lab, 598 McElroy Dr, Oxford, MS 38655 USA.
+EM jason.taylor@usda.gov
+PD JAN-FEB
+PY 2020
+VL 49
+IS 1
+BP 140
+EP 151
+DI 10.1002/jeq2.20039
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Fort, A
+   Mannion, C
+   Farinas-Franco, JM
+   Sulpice, R
+AF Fort, Antoine
+   Mannion, Conor
+   Farinas-Franco, Jose M.
+   Sulpice, Ronan
+TI Green tides select for fast expanding Ulva strains
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+DT Article
+DE Ulva spp; Green tides; Ecophysiology; Growth; Water quality
+ID MACROALGAL BLOOMS; COASTAL EUTROPHICATION; NUTRIENT-UPTAKE; GROWTH;
+   MARINE; PHOTOSYNTHESIS; TEMPERATURE; PROLIFERA; IRRADIANCE; BRITTANY
+AB Green tides, the phenomenon whereby large volume of marine environment is taken over by the sea lettuce Ulva spp, arc a seasonal occurrence thought to be caused mainly by anthropogenic eutrophication. The aggravation of green tide occurrence since the 1970s could however be due to the amplification of fast-growing strains within these areas. In this study, we compared the growth and metabolite content of 28 green tide Ulva strains against 100 non-green tide strains, under conditions dose to those encountered in green tides areas. The aim was to determine whether the presence of specific characteristics intrinsic to green tide strains could in itself be a major factor for their reoccurrence. We confirmed that green tide strains have specific characteristics, with faster tissue expansion, higher protein and pigments, and lower starch content compared to non-green tide ones, thus highlighting a genetic component specific to green tide strains. Dry biomass accumulation, however, was not different between the two types of Ulva strains. Hence, we hypothesise that the selective pressure in green tide areas leads to the amplification of Ulva genotypes best adapted for this environment. Such selection of fast-growing strains would indicate that green tides are likely to become more prevalent and of higher magnitude over the coming years. (C) 2019 The Authors. Published by Elsevier B.V.
+C1 [Fort, Antoine; Mannion, Conor; Farinas-Franco, Jose M.; Sulpice, Ronan] Natl Univ Ireland Galway, Plant Syst Biol Lab, Ryan Inst, Plant & AgriBiosci Res Ctr,Sch Nat Sci, Galway H91 TK33, Ireland.
+   [Farinas-Franco, Jose M.] Galway Mayo Inst Technol, Sch Sci & Comp, Dept Nat Sci, Old Dublin Rd, Galway H91 T8NW, Ireland.
+RP Sulpice, R （連絡著者）、Natl Univ Ireland Galway, Plant Syst Biol Lab, Ryan Inst, Plant & AgriBiosci Res Ctr,Sch Nat Sci, Galway H91 TK33, Ireland.
+EM ronan.sulpice@nuigalway.ie
+PD JAN 1
+PY 2020
+VL 698
+AR 134337
+DI 10.1016/j.scitotenv.2019.134337
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Lindholm, M
+   Alahuhta, J
+   Heino, J
+   Toivonen, H
+AF Lindholm, Marja
+   Alahuhta, Janne
+   Heino, Jani
+   Toivonen, Heikki
+TI No biotic homogenisation across decades but consistent effects of
+   landscape position and pH on macrophyte communities in boreal lakes
+SO ECOGRAPHY
+DT Article
+DE anthropogenic impact; aquatic plants; beta diversity; biotic
+   homogenisation; land use changes; temporal patterns
+ID THEORETICAL HABITAT TEMPLETS; UPPER RHONE RIVER; BETA-DIVERSITY; SPECIES
+   RICHNESS; TAXONOMIC HOMOGENIZATION; FUNCTIONAL DIVERSITY; AQUATIC
+   MACROPHYTES; WATER-QUALITY; BIODIVERSITY; PLANT
+AB It has been predicted that spatial beta diversity shows a decreasing trend in the Anthropocene due to increasing human impact, causing biotic homogenisation. We aimed to discover if vascular aquatic macrophyte communities show different spatial patterns in beta diversity in relation to land use and environmental characteristics in different decades from 1940s to 2010s. We aimed to discover if spatial structures differ between species-, phylogeny- and functional-based beta diversity. We used presence-absence data of aquatic macrophytes from five decades from small boreal lakes. We utilized generalised dissimilarity modelling to analyse spatial patterns in beta diversity in relation to environmental gradients. We found that lake elevation and pH were the most important variables in each decade, while land use was not particularly important in shaping beta diversity patterns. We did not find signs of a decreasing trend in spatial beta diversity in our study area during the past 70 yr. We did not find signs of either biotic homogenisation or biotic differentiation (taxonomic, phylogenetic or functional). Vascular aquatic macrophyte communities showed only slightly different beta diversity patterns in relation to human impact across decades. The patterns of different facets of beta diversity diverged only slightly from each other. Lake position in the landscape, reflecting both natural connectivity and lake characteristics, explained the patterns found in beta diversity, probably because our study area has faced only modest changes in land use from 1940s to 2010s when compared globally. Our study highlights the fact that biotic homogenisation is not an unambiguous process acting similarly at all spatial and temporal scales or in different environments and different organism groups.
+C1 [Lindholm, Marja; Alahuhta, Janne] Univ Oulu, Geog Res Unit, Oulu, Finland.
+   [Heino, Jani] Finnish Environm Inst, Freshwater Ctr, Oulu, Finland.
+C3 University of Oulu; Finnish Environment Institute
+RP Lindholm, M （連絡著者）、Univ Oulu, Geog Res Unit, Oulu, Finland.
+EM marja.lindholm@oulu.fi
+PD FEB
+PY 2020
+VL 43
+IS 2
+BP 294
+EP 305
+DI 10.1111/ecog.04757
+EA OCT 2019
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Musters, CJM
+   Hunting, ER
+   Schrama, M
+   Cieraad, E
+   Barmentlo, SH
+   Ieromina, O
+   Vijver, MG
+   van Bodegom, PM
+AF Musters, C. J. M.
+   Hunting, Ellard R.
+   Schrama, Maarten
+   Cieraad, E.
+   Barmentlo, S. Henrik
+   Ieromina, Oleksandra
+   Vijver, Martina G.
+   van Bodegom, Peter M.
+TI Spatial and temporal homogenisation of freshwater macrofaunal
+   communities in ditches
+SO FRESHWATER BIOLOGY
+DT Article
+DE ditch network; diversity turnover; diversity variation; Hellinger
+   distance; land use
+ID BETA-DIVERSITY; LAND-USE; PESTICIDES; METACOMMUNITIES
+AB There is a widespread concern that we are witnessing an ongoing homogenisation of ecological communities. However, in contrast to human impacts on spatial patterns in biodiversity, human impacts on the temporal aspects of beta-diversity have received little attention. Moreover, the interplay between spatial and temporal beta-diversity is poorly understood. To address this knowledge gap, we assessed dissimilarity within freshwater macrofaunal communities of drainage ditches to determine spatiotemporal beta-diversity as well as homogenisation in relation to different types of land use. We considered four distinct changes in community composition: spatial turnover, temporal turnover, spatial variation over time, and temporal variation in space, as well as the combined effects of space and time on beta-diversity. As a metric of dissimilarity, we calculated the taxonomic Hellinger distance between samples from different locations and time points and correlated these with distance in space and in time, as well as with three spatial variables, including land-use type, and two temporal variables. We studied the effect of interactions between spatial and temporal variables on dissimilarity by applying a permutational analysis of variance. Our results illustrate the importance of changes in community composition in time with respect to temporal turnover, spatial variation over time, and temporal variation in space. While we did not find spatial turnover in community composition, both month and year had a considerable effect. Within a year, beta-diversity decreased over the months, yet these assembly patterns differed between years. This suggests major effects of seasonal and year-to-year dynamics on beta-diversity. Land use was also observed to be a main driver: ditches in nature conservation areas had higher beta-diversity and temporal heterogeneity was lowest in ditches adjacent to the most intensive agricultural land-use category, indicating that agricultural practices can homogenise biodiversity in both space and time. By analysing the spatial and temporal beta-diversity patterns in freshwater macrofaunal communities in concert, we have shown that beta-diversity is a sensitive and highly informative metric of both spatial and temporal changes in community composition.
+C1 [Musters, C. J. M.; Schrama, Maarten; Cieraad, E.; Barmentlo, S. Henrik; Vijver, Martina G.; van Bodegom, Peter M.] Leiden Univ, Inst Environm Sci, POB 9518, NL-2300 RA Leiden, Netherlands.
+   [Hunting, Ellard R.] Univ Bristol, Sch Biol Sci, Bristol, Avon, England.
+   [Hunting, Ellard R.] Woods Hole Oceanog Inst, Biol Dept, Woods Hole, MA 02543 USA.
+   [Schrama, Maarten] Nat Biodivers Ctr, Leiden, Netherlands.
+   [Ieromina, Oleksandra] Dutch Board Authorisat Plant Protect Prod & Bioci, Ede, Netherlands.
+C3 Leiden University; Leiden University - Excl LUMC; University of Bristol;
+   Woods Hole Oceanographic Institution; Naturalis Biodiversity Center
+RP Musters, CJM （連絡著者）、Leiden Univ, Inst Environm Sci, POB 9518, NL-2300 RA Leiden, Netherlands.
+EM musters@cml.leidenuniv.nl
+PD DEC
+PY 2019
+VL 64
+IS 12
+BP 2260
+EP 2268
+DI 10.1111/fwb.13415
+EA SEP 2019
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+ER
+
+PT J
+AU Pant, M
+   Nepal, V
+   West, JL
+   Colombo, RE
+AF Pant, Manisha
+   Nepal, Vaskar
+   West, John L.
+   Colombo, Robert E.
+TI Seasonal differences in diversity of macroinvertebrate and fish taxa in
+   a Midwestern stream
+SO RIVER RESEARCH AND APPLICATIONS
+DT Article
+DE alpha diversity; beta diversity; fishes; macroinvertebrates; seasonal
+   differences; streams
+ID BETA-DIVERSITY; BIODIVERSITY CHANGE; SPECIES RICHNESS; TEMPORAL
+   TURNOVER; ASSEMBLAGES; HETEROGENEITY; EPHEMEROPTERA; DETERMINANTS;
+   BIOGEOGRAPHY; COMMUNITIES
+AB Most biomonitoring projects focus on single species groups at time scales either too short or too coarse to detect intra-annual oscillations in biodiversity. Using a multifaceted approach, we compared diversity indices of larval macroinvertebrate families and fish species in a Midwestern stream during spring and fall of 2009-2013 and discovered contrasting patterns in alpha and beta diversities between the seasons for the two taxa groups. Compared with spring, both alpha and beta diversities were significantly higher during fall for macroinvertebrates; on the contrary, only alpha diversity differed between the seasons for fishes. For both taxa, we partitioned the overall beta diversity to identify contributions of temporal and spatial beta diversities on the observed differences. The observed patterns for macroinvertebrates were likely the result of season acting as environmental filter, but stochastic dispersal and recruitment processes were likely more important in driving fish diversity patterns. In light of widespread conservation and restoration efforts in the Midwestern streams, it seems prudent to study community composition frequently so that baseline alpha and beta diversities can be obtained for organisms at different taxonomic levels and during different seasons.
+C1 [Pant, Manisha; Nepal, Vaskar; West, John L.; Colombo, Robert E.] Eastern Illinois Univ, Dept Biol Sci, Charleston, IL 61920 USA.
+RP Pant, M （連絡著者）、Virginia Inst Marine Sci, POB 1346, Gloucester Point, VA 23062 USA.
+EM mpant@vims.edu
+PD JUL
+PY 2019
+VL 35
+IS 6
+BP 692
+EP 701
+DI 10.1002/rra.3441
+SC Environmental Sciences & Ecology; Water Resources
+ER
+
+EF

@@ -55,19 +55,18 @@ def auth_affil( webpage, article_no_title_web, article_type ):
         corr_type = driver.find_element(By.CSS_SELECTOR, 'p[class="author-type mb-1"]')
         corr_auth = corr_type.find_element( By.XPATH, ".." ).find_element(By.CSS_SELECTOR, 'p[class="author-name"]')
         corr_name = corr_auth.get_attribute("textContent")
-    except NoSuchElementException:
+    except NoSuchElementException: 
         print("exception handled")
 
-    # search for keywords                                                                                             
+
+    # search for keywords
     keywords = []
     elem_keywords = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation_keywords"]')
     len_elem_keywords = len( elem_keywords )
     for i in range(0,len_elem_keywords):
-        kw = elem_keywords[i].get_attribute("content")
-        print( kw )
-        keywords.append( kw )
+        keywords.append( elem_keywords[i].get_attribute("content") )
 
-    # search for author information                                                                                   
+    # search for author information
     authors_info = []
     
     for i in range(0,len_authors_list):
@@ -77,36 +76,34 @@ def auth_affil( webpage, article_no_title_web, article_type ):
         print( "        author " + str(i) + ": " + auth )
         print( "        affiliation " + str(i) + ": " + affi )
 
-        # check correspondance                                                                                         
+        # check correspondance
         corr = 0
         if auth in corr_name:
             corr = 1
             print( "Correspondance!" )
-
+        
         author_info = []
         author_info.append( article_no_title_web[0] )
         author_info.append( article_no_title_web[1] )
         author_info.append( article_no_title_web[2] )
         author_info.append( auth ) # author name
-
-        if i == 0: # status                                                                                           
+        if i == 0: # status
             author_info.append( "first" )
         elif i == (len_authors_list-1):
             author_info.append( "last" )
         else:
             author_info.append( "middle" )
-
-        if corr == 0: # correspondance                                                                                
+        if corr == 0: # correspondance
             author_info.append( 0 )
         elif corr > 0:
             author_info.append( 1 )
+        author_info.append( affi ) # affiliation
+        author_info.append( keywords ) # keyword
+        author_info.append( "none" ) # field
+        author_info.append( article_type ) # article type
 
-        author_info.append( affi ) # affiliation                                                                      
-        author_info.append( "/".join( keywords ) ) # keyword                                                                      
-        author_info.append( "none" ) # field                                                                          
-        author_info.append( article_type ) # article type                                                              
-        # add author_info to authors_info                                                                             
-        authors_info.append( author_info )       
+        # add author_info to authors_info
+        authors_info.append( author_info )
         
     driver.quit()
 

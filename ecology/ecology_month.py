@@ -41,52 +41,58 @@ def search_articles( monWeb, volume_list ):
 
     elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-2"]')
     article_type = ""
-    for i in range(1,10):
+    for i in range(1,20):
         idName = "heading-level-1-" + str(i)
         tag_id = 'h3[id="' + idName + '"]'
         try:
             elem = driver.find_element( By.CSS_SELECTOR, tag_id )
-            if ( "ARTICLES" in elem.get_attribute("title") ) or ( "Articles" in elem.get_attribute("title") ):
+            if ( "ARTICLES" in elem.get_attribute("title") ) or ( "Articles" in elem.get_attribute("title") ) or ( "ARTICLE" in elem.get_attribute("title") ) or ( "Article" in elem.get_attribute("title") ):
                 print( elem.get_attribute("title") )
-                article_type = "Articles"
-                break
+                article_type = "Article"
+                
+                #elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-4"]')
+                articles = elem.find_element( By.XPATH, ".." )
+                
+                article = articles.find_elements(By.CSS_SELECTOR, 'div[class="issue-item"]')
+                #article = articles.find_elements(By.CSS_SELECTOR, 'a[class="issue-item__title visitable"]')
+                len_article = len( article )
+                #authors = articles.find_elements(By.CSS_SELECTOR, 'div[class="loa comma loa-authors-trunc"]')
+                #len_authors_list = len( authors )
+                #print( len_article )
+                #issue_item = articles.find_elements(By.CSS_SELECTOR, 'div[class="issue-item"]')    
+                
+                # ファイルの呼び出し
+                import ecology_article
+                
+                for i in range(0,len_article):
+                    
+                    aTitle = article[i].find_element(By.CSS_SELECTOR, 'a[class="issue-item__title visitable"]').text
+                    print( "    " + str(i) + ": " + aTitle )
+                    #aWebs = article[i].find_elements(By.CSS_SELECTOR, 'a[class="content-item-format-links"]').find_elements(By.TAG, 'li')
+                    aWebs = article[i].find_element(By.CSS_SELECTOR, 'div[class="content-item-format-links"]').find_element(By.CSS_SELECTOR, 'ul[class="rlist--inline separator issue-item__links"]')
+                    aWeb_abst = aWebs.find_element(By.CSS_SELECTOR, 'a[title="Abstract"]')
+                    #aWeb_abst = aWebs.find_element(By.XPATH, "//a[@title='Abstract']")
+                    aWeb = aWeb_abst.get_attribute("href")
+                    print( "        web page " + str(i) + ": " + aWeb )
+                    #cifl = issue_item[i].find_element(By.CSS_SELECTOR, 'div[class="content-issue-format-links"]')
+                    #risiil = cifl.find_element(By.CSS_SELECTOR, 'ul[class="rlist--inline separator issue-item__links"]')
+                    #aWeb = risiil.find_element(By.CSS_SELECTOR, 'a[title="Abstract"]').get_attribute("href")
+                    #print( "        web page " + str(i) + ": " + aWeb )
+                    
+                    # No., title, & web page address of each article
+                    article_no_title_web = [i, aTitle, aWeb]
+                    # search & append authors' name, status, correspondance, affiliation, field, category of each article
+                    authors_info = []
+                    authors_info = ecology_article.auth_affil( aWeb, article_no_title_web, article_type )
+                    # add article information to the origical list
+                    len_author_info = len( authors_info )
+                    for j in range(0,len_author_info):
+                        volume_list.append( authors_info[j] )
+                        
         except NoSuchElementException:
             print("exception handled")
-
-    #elem = driver.find_element(By.CSS_SELECTOR, 'h3[id="heading-level-1-4"]')
-    articles = elem.find_element( By.XPATH, ".." )
-    
-    article = articles.find_elements(By.CSS_SELECTOR, 'a[class="issue-item__title visitable"]')
-    len_article = len( article )
-    authors = articles.find_elements(By.CSS_SELECTOR, 'div[class="loa comma loa-authors-trunc"]')
-    len_authors_list = len( authors )
-    #print( len_article )
-    issue_item = articles.find_elements(By.CSS_SELECTOR, 'div[class="issue-item"]')    
-    
-    # ファイルの呼び出し
-    import ecology_article
-
-    for i in range(0,len_article):
-        
-        aTitle = article[i].text
-        print( "    " + str(i) + ": " + aTitle )
-        aWeb = article[i].get_attribute("href")
-        print( "        web page " + str(i) + ": " + aWeb )
-        #cifl = issue_item[i].find_element(By.CSS_SELECTOR, 'div[class="content-issue-format-links"]')
-        #risiil = cifl.find_element(By.CSS_SELECTOR, 'ul[class="rlist--inline separator issue-item__links"]')
-        #aWeb = risiil.find_element(By.CSS_SELECTOR, 'a[title="Abstract"]').get_attribute("href")
-        #print( "        web page " + str(i) + ": " + aWeb )
-        
-        # No., title, & web page address of each article
-        article_no_title_web = [i, aTitle, aWeb]
-        # search & append authors' name, status, correspondance, affiliation, field, category of each article
-        authors_info = []
-        authors_info = ecology_article.auth_affil( aWeb, article_no_title_web, article_type )
-        # add article information to the origical list
-        len_author_info = len( authors_info )
-        for j in range(0,len_author_info):
-            volume_list.append( authors_info[j] )
-        
+            break
+                    
     # ブラウザを閉じる
     driver.quit()
 

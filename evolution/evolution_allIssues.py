@@ -33,7 +33,7 @@ import evolution_month
 # Google chrome を開く
 #url = sys.argv[1]
 #driver.get( url )
-driver.get('https://onlinelibrary.wiley.com/loi/15585646/year/2019')
+driver.get('https://onlinelibrary.wiley.com/loi/15585646/year/2017')
 
 pare = driver.find_element(By.CSS_SELECTOR, 'ul[class="rlist loi__issues"]')
 elem = pare.find_elements(By.CSS_SELECTOR, 'li[class="card clearfix"]')
