@@ -2,18 +2,19 @@ import glob
 import pandas as pd
 
 #--- Area list ---#
-north_america = ["America","USA","United States","Michigan","Hawaii","Wisconsin","Washington","Maryland","Tennessee","Massachusetts","Connecticut","North Carolina","California","Colorado","Idaho","Wyoming","New Jersey","Oregon","Alaska","New York","Florida","Virginia","Texas","Alabama","Georgia","Utah","Maine","Illinois","Pennsylvania","San Francisco","Arizona","Montana","Louisiana","Minnesota","Arkansas","Missouri","Kentucky","Oklahoma","Ohio","Nevada","Kansas","Iowa","Nebraska","Harvard","Delaware","Mississippi","San Diego","Houston","Austin","Chicago","Princeton","New Orleans","South Dakota","North Dakota","Washington","Vermont","South Carolina","Canada","Syracuse","Greenland"]
-south_america = ["Panama","Argentina","Brazil","Brasil","Chile","Puerto Rico","México","Mexico","Panama","Panamá","Ecuador","Peru","Perú","Bermuda","Colombia","Ghana","Bolivia","Paraguay","Costa Rica","Ethiopia","Trinidad and Tobago","Palau","Barbados","Venezuela","Uruguay"]
-europe = ["Austria","Hungary","Italy","Finland","Denmark","Germany","United Kingdom","UK","U.K.","England","Edinburgh","Hampshire","Cambridge","France","Sweden","Spain","Belgium","Portugal","Netherlands","Czech Republic", "Iceland", "Poland", "Norway","Finland","Switzerland","Estonia","Greece","Serbia","Ireland","Slovenia","Slovak Republic","EBCC","Fife","Scotland","Curaçao","Czechia","Montpellier","Island","Romania"]
-africa = ["Kenya","South Africa","Uganda","Egypt","Ghana","Congo","Guiana","Cameroon","Uganda","Gabon","Zimbabwe","Tanzania","Burkina Faso","Mozambique","Namibia","Benin Republic","El Salvador","São Tomé and Príncipe","Botswana","Senegal","Algeria","Zambia","Cabo Verde","Alexandria"]
-oceania = ["Australia","Queensland","New Zealand","Guinea","Papua New Guinea","Madagascar","New Caledonia","Tonga","Polynesia"]
+north_america = ["America","USA","United States","Michigan","Hawaii","Hawai'i","Wisconsin","Washington","Maryland","Tennessee","Massachusetts","Connecticut","North Carolina","California","Colorado","Idaho","Wyoming","New Jersey","Oregon","Alaska","New York","Florida","Virginia","Texas","Alabama","Georgia","Utah","Maine","Illinois","Pennsylvania","San Francisco","Arizona","Montana","Louisiana","Minnesota","Arkansas","Missouri","Kentucky","Oklahoma","Ohio","Nevada","Kansas","Iowa","Nebraska","Harvard","Delaware","Mississippi","San Diego","Houston","Austin","Chicago","Princeton","New Orleans","South Dakota","North Dakota","Washington","Vermont","South Carolina","Syracuse","Cottonwood St. Woodland","Middlebury","Arizona","Stanford","Canada","Greenland"]
+south_america = ["Argentina","Brazil","Brasil","Chile","Puerto Rico","México","Mexico","Panama","Panamá","Ecuador","Peru","Perú","Bermuda","Colombia","Ghana","Bolivia","Paraguay","Costa Rica","Ethiopia","Trinidad and Tobago","Palau","Barbados","Venezuela","Uruguay"]
+europe = ["Austria","Hungary","Italy","Finland","Denmark","Germany","United Kingdom","UK","U.K.","England","Edinburgh","Hampshire","Cambridge","France","Sweden","Spain","Belgium","Portugal","Netherlands","Czech Republic", "Iceland", "Poland", "Norway","Finland","Switzerland","Estonia","Greece","Serbia","Ireland","Slovenia","Slovak Republic","EBCC","Fife","Scotland","Curaçao","Czechia","Montpellier","Island","Croatia","Romania"]
+africa = ["Kenya","South Africa","Uganda","Egypt","Ghana","Congo","Guiana","Cameroon","Uganda","Gabon","Zimbabwe","Tanzania","Burkina Faso","Mozambique","Namibia","Benin Republic","El Salvador","São Tomé and Príncipe","Botswana","Senegal","Algeria","Zambia","Cabo Verde","Alexandria","Parc W-Niger"]
+oceania = ["Australia","Queensland","New Zealand","Guinea","Papua New Guinea","Madagascar","New Caledonia","Tonga","Polynesia","New South Wales"]
 middle_east_asia = ["Israel","Saudi Arabia","Turkey","Kazakhstan","Iran"]
-asia = ["China","Japan","Singapore","Thailand","India","Taiwan","Indonesia","Malaysia","Croatia","Korea","Hong Kong","Mongolia","Cambodia","Philippines","Nepal","Brunei Darussalam"]
-russia = ["Russia"]
+asia = ["China","Japan","Singapore","Thailand","India","Taiwan","Indonesia","Malaysia","Korea","Hong Kong","Mongolia","Cambodia","Philippines","Nepal","Brunei Darussalam"]
+russia = ["Russia","Ukraine"]
 allnations = south_america + europe + africa + oceania + middle_east_asia + asia + russia + north_america
 
 #--- determining csv ---#
-journal = 'evolution'
+journal = 'ecology'
+
 files = glob.glob( "./" + journal + "/result/*.csv" )
 for file in files:
 
