@@ -39,56 +39,69 @@ def auth_affil( webpage, ind_arti ):
     #driver.get( url )
     driver.get( webpage )
 
+    # showing citing reference by clicking
+    elem = driver.find_element(By.CSS_SELECTOR, 'div[aria-controls="cited-by__content"]')
+    driver.execute_script('arguments[0].click();', elem)
+    
+    #try:
     # search for author information         
     authors_info = []
 
-    try:
-        citing_list = driver.find_element(By.CSS_SELECTOR, 'ul[class="rlist cited-by__list"]').find_elements(By.CSS_SELECTOR, 'li')
-        len_citing_list = len( citing_list )
+
+    citing_ref = driver.find_element(By.CSS_SELECTOR, 'ul[class="rlist cited-by__list"]')
+    WebDriverWait(citing_ref, 60).until(EC.presence_of_element_located( (By.CSS_SELECTOR, 'li[class="citedByEntry"]') ) )
+    #driver.implicitly_wait(10)
+    citing_list = citing_ref.find_elements(By.CSS_SELECTOR, 'li[class="citedByEntry"]')
+    len_citing_list = len( citing_list )
+    print( "        --> " + str(len_citing_list) + " citation" )
     
-        for i in range( 0, len_citing_list ):
+    for i in range( 0, len_citing_list ):
         
-            author_info = []
-            # index of articles
-            author_info.append( ind_arti )
-            # index of citing references
-            author_info.append( i )
-
-            citing_inform = citing_list[i].find_elements(By.CSS_SELECTOR, 'span')
-
-            # authors
-            citing_authors = citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="entryAuthor"]')
-            len_citing_authors = len( citing_authors )
-            ca = citing_authors[0].text
-            for k in range(1,len_citing_authors):
-                ca = ca + "," + citing_authors[k].text
-            author_info.append( ca )
-            # title
-            author_info.append( citing_inform[1].text )
-            # journal
-            author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="seriesTitle"]').text.replace(',','').replace(' ','') )
-            # doi
-            author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="doi"]').text.replace(',','').replace(' ','') )
-            # volume
-            try:
-                author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="volume"]').find_element(By.CSS_SELECTOR, 'b').text )
-            except NoSuchElementException:
-                print("No volume")
-            # issue
-            try:
-                author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="issue"]').text.replace(',','').replace(' ','') )
-            except NoSuchElementException:
-                print("No issue")
-            # year
-            author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="pub-date"]').text.replace(',','').replace(' ','').replace('(','').replace(')','') )
-
-            print( author_info )
+        author_info = []
+        # index of articles
+        author_info.append( ind_arti )
+        # index of citing references
+        author_info.append( i )
         
-            # add author_info to authors_info
-            authors_info.append( author_info )       
+        citing_inform = citing_list[i].find_elements(By.CSS_SELECTOR, 'span')
+        
+        # authors
+        #citing_authors = citing_inform[0].find_elements(By.CSS_SELECTOR, 'span')
+        citing_authors = citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="entryAuthor"]').find_elements(By.CSS_SELECTOR, 'span')
+        len_citing_authors = len( citing_authors )
+        ca = citing_authors[0].text
+        for k in range(1,len_citing_authors):
+            ca = ca + "," + citing_authors[k].text
+        print( ca )
+        author_info.append( ca )
+        # title
+        author_info.append( citing_inform[1].text )
+        # journal
+        author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="seriesTitle"]').text.replace(',','').replace(' ','') )
+        #author_info.append( citing_inform[2].text.replace(',','').replace(' ','') )
+        # doi
+        #author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="doi"]').text.replace(',','').replace(' ','') )
+        author_info.append( citing_inform[3].text.replace(',','').replace(' ','') )
+        # volume
+        try:
+            author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="volume"]').find_element(By.CSS_SELECTOR, 'b').text )
+        except NoSuchElementException:
+            print("No volume")
+        # issue
+        try:
+            author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="issue"]').text.replace(',','').replace(' ','') )
+        except NoSuchElementException:
+            print("No issue")
+        # year
+        author_info.append( citing_list[i].find_element(By.CSS_SELECTOR, 'span[class="pub-date"]').text.replace(',','').replace(' ','').replace('(','').replace(')','') )
+        
+        print( author_info )
+        
+        # add author_info to authors_info
+        authors_info.append( author_info )       
 
-    except NoSuchElementException:
-        print("No citation")
+    #except NoSuchElementException:
+    #    print("No citation")
 
     driver.quit()
 

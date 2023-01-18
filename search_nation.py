@@ -15,7 +15,7 @@ allnations = south_america + europe + africa + oceania + middle_east_asia + asia
 #--- determining csv ---#
 journal = 'ecology'
 
-files = glob.glob( "./" + journal + "/result/*.csv" )
+files = glob.glob( "./" + journal + "/result2023/*.csv" )
 for file in files:
 
     fbegin = file.find("Volume")
@@ -24,13 +24,14 @@ for file in files:
     print( title )
     df = pd.read_csv( file, index_col=0)
 
+    ###=== affiliation 1 ===###
     #--- recorder ---#
     nations = []
     areas = []
     
-    for affil in df['affiliation']:
+    for affil in df['affiliation_1']:
         #--- search nation ---#
-        print( affil )
+        print( "1: " + affil )
 
         nation = "USA or others"
         for list_nation in allnations:
@@ -62,12 +63,57 @@ for file in files:
             areas.append( "Others" )
             
     #--- adding nation & area ---#
-    df["nation"] = nations 
-    df["area"] = areas
+    df["nation_1"] = nations 
+    df["area_1"] = areas
+
+    
+    ###=== affiliation 2 ===###
+    #--- recorder ---#
+    nations = []
+    areas = []
+    
+    for affil in df['affiliation_2']:
+        #--- search nation ---#
+        print( "2: " + affil )
+
+        nation = "none"
+        for list_nation in allnations:
+            #print( list_nation )
+            if list_nation in affil:
+                nation = list_nation 
+                break
+        nations.append( nation )
+        print( "!" + nation )
+        
+        #--- search area ---#
+        if nation == "none":
+            areas.append( "none" )
+        elif nation in north_america:
+            areas.append( "North America" )
+        elif nation in south_america:
+            areas.append( "South America" )
+        elif nation in europe:
+            areas.append( "Europe" )
+        elif nation in africa:
+            areas.append( "Africa" )
+        elif nation in oceania:
+            areas.append( "Oceania" )
+        elif nation in middle_east_asia:
+            areas.append( "Middle East Asia" )
+        elif nation in asia:
+            areas.append( "East Asia" )
+        elif nation in russia:
+            areas.append( "Russia" )
+        else:
+            areas.append( "Others" )
             
+    #--- adding nation & area ---#
+    df["nation_2"] = nations 
+    df["area_2"] = areas
+
+    
     #--- CSVファイルへ書き出す ---#
-    newFilename = '~/web_scraping/' + journal + '/result_with_nation/' + title + '-1.csv'
+    newFilename = '~/web_scraping/' + journal + '/result2023_with_nation/' + title + '-1.csv'
     df.to_csv( newFilename )
         
 print( 'finised!'  )
-            

@@ -39,12 +39,18 @@ def auth_affil( webpage, article_no_title_web, article_type ):
     #driver.get( url )
     driver.get( webpage )
 
+    # counting author
     authors = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation_author"]')
     len_authors_list = len( authors )
     #print( len_authors_list )
-    affils = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation_author_institution"]')
-    len_affils_list = len( affils )
+    #affils = driver.find_elements(By.CSS_SELECTOR, 'meta[name="citation_author_institution"]')
+    #len_affils_list = len( affils )
 
+    # counting tag, "meta"
+    metas = driver.find_elements(By.CSS_SELECTOR, 'meta')
+    len_metas_list = len( metas )
+    print( len_metas_list )
+    
     #if len_authors_list == len_affils_list:
     #    print( "len_authors_list == len_authors_list" )
     # articles = elem.find_element( By.XPATH, ".." )
@@ -73,11 +79,25 @@ def auth_affil( webpage, article_no_title_web, article_type ):
     for i in range(0,len_authors_list):
         
         auth = authors[i].get_attribute("content")
-        affi = affils[i].get_attribute("content")
         print( "        author " + str(i) + ": " + auth )
-        print( "        affiliation " + str(i) + ": " + affi )
+        #affi = affils[i].get_attribute("content")
+        #print( "        affiliation " + str(i) + ": " + affi )
 
-        # check correspondance                                                                                         
+        authorContent = authors[i].get_attribute("content")
+
+        # searching affiliations
+        affi01 = "none"
+        affi02 = "none"
+        for j in range(0,len_metas_list):
+            metaContent = metas[j].get_attribute("content")
+            if authorContent == metaContent:
+                affi01 = metas[j+1].get_attribute("content")
+                print( "        affiliation " + str(i) + "-1: " + affi01 )
+                if metas[j+2].get_attribute("name") == "citation_author_institution":
+                    affi02 = metas[j+2].get_attribute("content")
+                    print( "        affiliation " + str(i) + "-2: " + affi02 )
+        
+        # check correspondance
         corr = 0
         if auth in corr_name:
             corr = 1
@@ -101,9 +121,11 @@ def auth_affil( webpage, article_no_title_web, article_type ):
         elif corr > 0:
             author_info.append( 1 )
 
-        author_info.append( affi ) # affiliation                                                                      
-        author_info.append( "/".join( keywords ) ) # keyword                                                                      
-        author_info.append( "none" ) # field                                                                          
+        author_info.append( affi01 ) # affiliation 1
+        author_info.append( affi02 ) # affiliation 2
+        author_info.append( "/".join( keywords ) ) # keyword
+
+        author_info.append( "none" ) # field
         author_info.append( article_type ) # article type                                                              
         # add author_info to authors_info                                                                             
         authors_info.append( author_info )       
